@@ -20,13 +20,9 @@
  */
 #define PLAYER_NAME Nya
 #define in :
-#define Inf 100
 #define MAX_DIST 20
 
 typedef vector<int> VI;
-
-typedef vector<Cell> VC;
-typedef vector<VC> VVC;
 
 struct Data_visited {
     bool visited;
@@ -145,11 +141,6 @@ struct PLAYER_NAME : public Player {
          * que se visitan o ya se haya encontrado comida
          */
         while (not to_visit.empty() and to_visit.front().distance < MAX_DIST) {
-            /*
-             * TODO: Hay que hacer todavía la lógica de aquí que ya desarrollaré
-             * después
-             */
-
             if (cell(to_visit.front().x, to_visit.front().y).food) {
                 Data_visited new_cell;
                 new_cell.visited = true;
@@ -165,31 +156,32 @@ struct PLAYER_NAME : public Player {
                         [to_visit.front().x];
 
                 while (current_cell.distance > 1) {
-/*                    cerr << current_pos << ' ' << current_cell.distance <<
-endl;
-
-                    current_pos += current_cell.direction;
-                    current_cell = visited[current_pos.j][current_pos.i];*/
-
                     /*
-                     *
+                     * Mientras no estemos en una celda adyacente a la inicial
+                     * vamos a la anterior visitada
                      */
-
-                    cerr << current_cell.x << ' ' << current_cell.y <<
-                    current_cell.direction << ' ' << current_cell.distance
-                            << endl;
                     current_cell = visited[current_cell.y][current_cell.x];
                 }
-                cerr << current_cell.x << ' ' << current_cell.y <<
-                current_cell.direction << endl;
-                cerr << "-----------------------" << endl;
+                /*
+                 * Una vez encontrada la celda adyacente a la inicial se
+                 * devuelve la dirección guardada en esta que es la dirección
+                 * que se ha tomado desde la inicial para llegar
+                 */
                 return current_cell.direction;
             }
 
+            /*
+             * Mientras no estemos en una celda de comida se van agregando
+             * las adyacentes que sean calle
+             */
             add_tiles(to_visit, visited, to_visit.front().x,
                       to_visit.front().y,
                       to_visit.front().distance + 1);
 
+            /*
+             * Agregamos la celda que se ha visitado a la matriz de celdas
+             * visitadas
+             */
             Data_visited new_cell;
             new_cell.visited = true;
             new_cell.distance = to_visit.front().distance;
@@ -200,21 +192,21 @@ endl;
 
             visited[to_visit.front().y][to_visit.front().x] = new_cell;
 
+            /*
+             * Retiramos la celda analizada de la cola de celdas por visitar
+             */
             to_visit.pop();
         }
 
-
+        /*
+         * En caso de que la celda con comida esté a más de la distancia
+         * máxima se produce un movimiento aleatorio
+         */
         vector<Dir> dirs = {Up, Down, Left, Right};
         Dir dir = dirs[random(0, 3)];
 
         return dir;
-
-        /*
-         * TODO: En caso de que found sea true se mira desde el elemento que se
-         * ha tratado en último lugar en el while. Si es false se devuelve una
-         * dirección aleatoria
-         */
-    }
+   }
 
 
 
@@ -229,7 +221,7 @@ endl;
 
         vector<pair<int, Dir>> movements;
 
-        // Search for food for every troop
+        // Búsqueda de comida para cada tropa
         for (auto troop in mine_alive) {
             auto t = unit(troop);
             movements.emplace_back(pair<int, Dir>(troop, bfs_food(
