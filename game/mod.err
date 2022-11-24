@@ -1,0 +1,2539 @@
+info: seed 3
+info: loading game
+info: loaded game
+info: loading player Demo
+info: loading player Demo
+info: loading player Demo
+info: loading player Nya
+info: players loaded
+info: start round 0
+info:     start player 0
+At round 0 player 0 has 1 alive units: 0 at pos (30, 18); 
+info:     end player 0
+info:     start player 1
+At round 0 player 1 has 1 alive units: 1 at pos (4, 45); 
+info:     end player 1
+info:     start player 2
+At round 0 player 2 has 1 alive units: 2 at pos (21, 49); 
+info:     end player 2
+info:     start player 3
+9 5Left 8
+8 5Down 7
+7 5Down 6
+6 5Down 5
+5 5Down 4
+4 5Down 3
+4 6Left 2
+4 7Left
+-----------------------
+info:     end player 3
+info: end round 0
+info: start round 1
+info:     start player 0
+At round 1 player 0 has 1 alive units: 0 at pos (30, 19); 
+info:     end player 0
+info:     start player 1
+At round 1 player 1 has 1 alive units: 1 at pos (3, 45); 
+info:     end player 1
+info:     start player 2
+At round 1 player 2 has 1 alive units: 2 at pos (22, 49); 
+info:     end player 2
+info:     start player 3
+9 5Left 7
+8 5Down 6
+7 5Down 5
+6 5Down 4
+5 5Down 3
+4 5Down 2
+4 6Left
+-----------------------
+info:     end player 3
+info: end round 1
+info: start round 2
+info:     start player 0
+At round 2 player 0 has 1 alive units: 0 at pos (30, 19); 
+info:     end player 0
+info:     start player 1
+At round 2 player 1 has 1 alive units: 1 at pos (3, 45); 
+info:     end player 1
+info:     start player 2
+At round 2 player 2 has 1 alive units: 2 at pos (22, 49); 
+info:     end player 2
+info:     start player 3
+9 5Left 6
+8 5Down 5
+7 5Down 4
+6 5Down 3
+5 5Down 2
+4 5Down
+-----------------------
+info:     end player 3
+info: end round 2
+info: start round 3
+info:     start player 0
+At round 3 player 0 has 1 alive units: 0 at pos (30, 19); 
+info:     end player 0
+info:     start player 1
+At round 3 player 1 has 1 alive units: 1 at pos (3, 44); 
+info:     end player 1
+info:     start player 2
+At round 3 player 2 has 1 alive units: 2 at pos (23, 49); 
+info:     end player 2
+info:     start player 3
+9 5Left 5
+8 5Down 4
+7 5Down 3
+6 5Down 2
+5 5Down
+-----------------------
+info:     end player 3
+info: end round 3
+info: start round 4
+info:     start player 0
+At round 4 player 0 has 1 alive units: 0 at pos (30, 19); 
+info:     end player 0
+info:     start player 1
+At round 4 player 1 has 1 alive units: 1 at pos (3, 44); 
+info:     end player 1
+info:     start player 2
+At round 4 player 2 has 1 alive units: 2 at pos (23, 49); 
+info:     end player 2
+info:     start player 3
+9 5Left 4
+8 5Down 3
+7 5Down 2
+6 5Down
+-----------------------
+info:     end player 3
+info: end round 4
+info: start round 5
+info:     start player 0
+At round 5 player 0 has 1 alive units: 0 at pos (31, 19); 
+info:     end player 0
+info:     start player 1
+At round 5 player 1 has 1 alive units: 1 at pos (2, 44); 
+info:     end player 1
+info:     start player 2
+At round 5 player 2 has 1 alive units: 2 at pos (23, 49); 
+info:     end player 2
+info:     start player 3
+9 5Left 3
+8 5Down 2
+7 5Down
+-----------------------
+info:     end player 3
+info: end round 5
+info: start round 6
+info:     start player 0
+At round 6 player 0 has 2 alive units: 0 at pos (31, 18); 1 at pos (2, 44); 
+info:     end player 0
+info:     start player 1
+At round 6 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 6 player 2 has 1 alive units: 2 at pos (23, 49); 
+info:     end player 2
+info:     start player 3
+9 5Left 2
+8 5Down
+-----------------------
+info:     end player 3
+info: end round 6
+info: start round 7
+info:     start player 0
+At round 7 player 0 has 2 alive units: 0 at pos (31, 17); 1 at pos (2, 43); 
+info:     end player 0
+info:     start player 1
+At round 7 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 7 player 2 has 1 alive units: 2 at pos (23, 50); 
+info:     end player 2
+info:     start player 3
+9 5Left
+-----------------------
+info:     end player 3
+info: end round 7
+info: start round 8
+info:     start player 0
+At round 8 player 0 has 2 alive units: 0 at pos (31, 17); 1 at pos (2, 43); 
+info:     end player 0
+info:     start player 1
+At round 8 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 8 player 2 has 1 alive units: 2 at pos (23, 49); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 8
+info: start round 9
+info:     start player 0
+At round 9 player 0 has 2 alive units: 0 at pos (31, 16); 1 at pos (2, 44); 
+info:     end player 0
+info:     start player 1
+At round 9 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 9 player 2 has 2 alive units: 2 at pos (23, 49); 10 at pos (43, 44); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 9
+info: start round 10
+info:     start player 0
+At round 10 player 0 has 2 alive units: 0 at pos (31, 16); 1 at pos (2, 44); 
+info:     end player 0
+info:     start player 1
+At round 10 player 1 has 1 alive units: 10 at pos (43, 44); 
+info:     end player 1
+info:     start player 2
+At round 10 player 2 has 1 alive units: 2 at pos (23, 49); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 10
+info: start round 11
+info:     start player 0
+At round 11 player 0 has 1 alive units: 1 at pos (1, 44); 
+info:     end player 0
+info:     start player 1
+At round 11 player 1 has 2 alive units: 0 at pos (31, 15); 10 at pos (43, 43); 
+info:     end player 1
+info:     start player 2
+At round 11 player 2 has 1 alive units: 2 at pos (24, 49); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 11
+info: start round 12
+info:     start player 0
+At round 12 player 0 has 1 alive units: 1 at pos (1, 44); 
+info:     end player 0
+info:     start player 1
+At round 12 player 1 has 3 alive units: 0 at pos (31, 15); 9 at pos (3, 20); 10 at pos (43, 43); 
+info:     end player 1
+info:     start player 2
+At round 12 player 2 has 1 alive units: 2 at pos (24, 49); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 12
+info: start round 13
+info:     start player 0
+At round 13 player 0 has 1 alive units: 1 at pos (1, 43); 
+info:     end player 0
+info:     start player 1
+At round 13 player 1 has 3 alive units: 0 at pos (31, 14); 9 at pos (3, 20); 10 at pos (43, 43); 
+info:     end player 1
+info:     start player 2
+At round 13 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 13
+info: start round 14
+info:     start player 0
+At round 14 player 0 has 1 alive units: 1 at pos (1, 42); 
+info:     end player 0
+info:     start player 1
+At round 14 player 1 has 3 alive units: 0 at pos (31, 13); 9 at pos (3, 20); 10 at pos (43, 42); 
+info:     end player 1
+info:     start player 2
+At round 14 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 14
+info: start round 15
+info:     start player 0
+At round 15 player 0 has 1 alive units: 1 at pos (2, 42); 
+info:     end player 0
+info:     start player 1
+At round 15 player 1 has 3 alive units: 0 at pos (32, 13); 9 at pos (4, 20); 10 at pos (44, 42); 
+info:     end player 1
+info:     start player 2
+At round 15 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 15
+info: start round 16
+info:     start player 0
+At round 16 player 0 has 1 alive units: 1 at pos (2, 41); 
+info:     end player 0
+info:     start player 1
+At round 16 player 1 has 3 alive units: 0 at pos (32, 13); 9 at pos (4, 20); 10 at pos (44, 42); 
+info:     end player 1
+info:     start player 2
+At round 16 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 16
+info: start round 17
+info:     start player 0
+At round 17 player 0 has 1 alive units: 1 at pos (2, 40); 
+info:     end player 0
+info:     start player 1
+At round 17 player 1 has 3 alive units: 0 at pos (33, 13); 9 at pos (5, 20); 10 at pos (43, 42); 
+info:     end player 1
+info:     start player 2
+At round 17 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 17
+info: start round 18
+info:     start player 0
+At round 18 player 0 has 1 alive units: 1 at pos (2, 40); 
+info:     end player 0
+info:     start player 1
+At round 18 player 1 has 3 alive units: 0 at pos (33, 12); 9 at pos (5, 20); 10 at pos (43, 41); 
+info:     end player 1
+info:     start player 2
+At round 18 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 18
+info: start round 19
+info:     start player 0
+At round 19 player 0 has 1 alive units: 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 19 player 1 has 2 alive units: 0 at pos (33, 12); 9 at pos (5, 21); 
+info:     end player 1
+info:     start player 2
+At round 19 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (8, -1) out of the board.
+info: end round 19
+info: start round 20
+info:     start player 0
+At round 20 player 0 has 1 alive units: 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 20 player 1 has 2 alive units: 0 at pos (33, 12); 9 at pos (5, 21); 
+info:     end player 1
+info:     start player 2
+At round 20 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (8, -1) out of the board.
+info: end round 20
+info: start round 21
+info:     start player 0
+At round 21 player 0 has 1 alive units: 10 at pos (44, 42); 
+info:     end player 0
+info:     start player 1
+At round 21 player 1 has 2 alive units: 0 at pos (32, 12); 9 at pos (5, 21); 
+info:     end player 1
+info:     start player 2
+At round 21 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 21
+info: start round 22
+info:     start player 0
+At round 22 player 0 has 1 alive units: 10 at pos (44, 42); 
+info:     end player 0
+info:     start player 1
+At round 22 player 1 has 2 alive units: 0 at pos (32, 12); 9 at pos (5, 20); 
+info:     end player 1
+info:     start player 2
+At round 22 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 22
+info: start round 23
+info:     start player 0
+At round 23 player 0 has 1 alive units: 10 at pos (44, 43); 
+info:     end player 0
+info:     start player 1
+At round 23 player 1 has 2 alive units: 0 at pos (33, 12); 9 at pos (4, 20); 
+info:     end player 1
+info:     start player 2
+At round 23 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 23
+info: start round 24
+info:     start player 0
+At round 24 player 0 has 1 alive units: 10 at pos (44, 42); 
+info:     end player 0
+info:     start player 1
+At round 24 player 1 has 2 alive units: 0 at pos (33, 12); 9 at pos (4, 20); 
+info:     end player 1
+info:     start player 2
+At round 24 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 24
+info: start round 25
+info:     start player 0
+At round 25 player 0 has 1 alive units: 10 at pos (44, 41); 
+info:     end player 0
+info:     start player 1
+At round 25 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 25 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (6, -1) out of the board.
+info: end round 25
+info: start round 26
+info:     start player 0
+At round 26 player 0 has 1 alive units: 10 at pos (44, 41); 
+info:     end player 0
+info:     start player 1
+At round 26 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 26 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (6, -1) out of the board.
+info: end round 26
+info: start round 27
+info:     start player 0
+At round 27 player 0 has 1 alive units: 10 at pos (44, 40); 
+info:     end player 0
+info:     start player 1
+At round 27 player 1 has 1 alive units: 0 at pos (31, 12); 
+info:     end player 1
+info:     start player 2
+At round 27 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 27
+info: start round 28
+info:     start player 0
+At round 28 player 0 has 1 alive units: 10 at pos (44, 40); 
+info:     end player 0
+info:     start player 1
+At round 28 player 1 has 1 alive units: 0 at pos (31, 12); 
+info:     end player 1
+info:     start player 2
+At round 28 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 28
+info: start round 29
+info:     start player 0
+At round 29 player 0 has 1 alive units: 10 at pos (45, 40); 
+info:     end player 0
+info:     start player 1
+At round 29 player 1 has 1 alive units: 0 at pos (31, 12); 
+info:     end player 1
+info:     start player 2
+At round 29 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 29
+info: start round 30
+info:     start player 0
+At round 30 player 0 has 1 alive units: 10 at pos (45, 40); 
+info:     end player 0
+info:     start player 1
+At round 30 player 1 has 1 alive units: 0 at pos (31, 12); 
+info:     end player 1
+info:     start player 2
+At round 30 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 30
+info: start round 31
+info:     start player 0
+At round 31 player 0 has 1 alive units: 10 at pos (44, 40); 
+info:     end player 0
+info:     start player 1
+At round 31 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 31 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 31
+info: start round 32
+info:     start player 0
+At round 32 player 0 has 1 alive units: 10 at pos (44, 40); 
+info:     end player 0
+info:     start player 1
+At round 32 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 32 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 32
+info: start round 33
+info:     start player 0
+At round 33 player 0 has 1 alive units: 10 at pos (44, 40); 
+info:     end player 0
+info:     start player 1
+At round 33 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 33 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (58, 37) with waste.
+info: end round 33
+info: start round 34
+info:     start player 0
+At round 34 player 0 has 1 alive units: 10 at pos (44, 40); 
+info:     end player 0
+info:     start player 1
+At round 34 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 34 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (58, 37) with waste.
+info: end round 34
+info: start round 35
+info:     start player 0
+At round 35 player 0 has 1 alive units: 10 at pos (43, 40); 
+info:     end player 0
+info:     start player 1
+At round 35 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 35 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (58, 37) with waste.
+info: end round 35
+info: start round 36
+info:     start player 0
+At round 36 player 0 has 1 alive units: 10 at pos (43, 40); 
+info:     end player 0
+info:     start player 1
+At round 36 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 36 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 36
+info: start round 37
+info:     start player 0
+At round 37 player 0 has 1 alive units: 10 at pos (44, 40); 
+info:     end player 0
+info:     start player 1
+At round 37 player 1 has 1 alive units: 0 at pos (33, 12); 
+info:     end player 1
+info:     start player 2
+At round 37 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 37
+info: start round 38
+info:     start player 0
+At round 38 player 0 has 1 alive units: 10 at pos (44, 40); 
+info:     end player 0
+info:     start player 1
+At round 38 player 1 has 1 alive units: 0 at pos (33, 12); 
+info:     end player 1
+info:     start player 2
+At round 38 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 38
+info: start round 39
+info:     start player 0
+At round 39 player 0 has 1 alive units: 10 at pos (43, 40); 
+info:     end player 0
+info:     start player 1
+At round 39 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 39 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 39
+info: start round 40
+info:     start player 0
+At round 40 player 0 has 1 alive units: 10 at pos (43, 40); 
+info:     end player 0
+info:     start player 1
+At round 40 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 40 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 40
+info: start round 41
+info:     start player 0
+At round 41 player 0 has 1 alive units: 10 at pos (43, 41); 
+info:     end player 0
+info:     start player 1
+At round 41 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 41 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 41
+info: start round 42
+info:     start player 0
+At round 42 player 0 has 1 alive units: 10 at pos (43, 41); 
+info:     end player 0
+info:     start player 1
+At round 42 player 1 has 1 alive units: 0 at pos (32, 12); 
+info:     end player 1
+info:     start player 2
+At round 42 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 42
+info: start round 43
+info:     start player 0
+At round 43 player 0 has 1 alive units: 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 43 player 1 has 1 alive units: 0 at pos (33, 12); 
+info:     end player 1
+info:     start player 2
+At round 43 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (7, 17) with waste.
+info: end round 43
+info: start round 44
+info:     start player 0
+At round 44 player 0 has 1 alive units: 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 44 player 1 has 1 alive units: 0 at pos (33, 12); 
+info:     end player 1
+info:     start player 2
+At round 44 player 2 has 1 alive units: 7 at pos (7, 16); 
+info:     end player 2
+info:     start player 3
+52 54Right 19
+53 54Up 18
+54 54Up 17
+55 54Up 16
+55 53Right 15
+55 52Right 14
+55 51Right 13
+55 50Right 12
+55 49Right 11
+55 48Right 10
+55 47Right 9
+55 46Right 8
+55 45Right 7
+55 44Right 6
+55 43Right 5
+55 42Right 4
+55 41Right 3
+55 40Right 2
+56 40Up
+-----------------------
+info:     end player 3
+info: end round 44
+info: start round 45
+info:     start player 0
+At round 45 player 0 has 2 alive units: 0 at pos (32, 12); 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 45 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 45 player 2 has 1 alive units: 7 at pos (7, 16); 
+info:     end player 2
+info:     start player 3
+52 54Right 18
+53 54Up 17
+54 54Up 16
+55 54Up 15
+55 53Right 14
+55 52Right 13
+55 51Right 12
+55 50Right 11
+55 49Right 10
+55 48Right 9
+55 47Right 8
+55 46Right 7
+55 45Right 6
+55 44Right 5
+55 43Right 4
+55 42Right 3
+55 41Right 2
+55 40Right
+-----------------------
+info:     end player 3
+info: end round 45
+info: start round 46
+info:     start player 0
+At round 46 player 0 has 2 alive units: 0 at pos (32, 12); 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 46 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 46 player 2 has 1 alive units: 7 at pos (7, 15); 
+info:     end player 2
+info:     start player 3
+52 54Right 17
+53 54Up 16
+54 54Up 15
+55 54Up 14
+55 53Right 13
+55 52Right 12
+55 51Right 11
+55 50Right 10
+55 49Right 9
+55 48Right 8
+55 47Right 7
+55 46Right 6
+55 45Right 5
+55 44Right 4
+55 43Right 3
+55 42Right 2
+55 41Right
+-----------------------
+info:     end player 3
+info: end round 46
+info: start round 47
+info:     start player 0
+At round 47 player 0 has 2 alive units: 0 at pos (33, 12); 10 at pos (43, 43); 
+info:     end player 0
+info:     start player 1
+At round 47 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 47 player 2 has 1 alive units: 7 at pos (7, 16); 
+info:     end player 2
+info:     start player 3
+52 54Right 16
+53 54Up 15
+54 54Up 14
+55 54Up 13
+55 53Right 12
+55 52Right 11
+55 51Right 10
+55 50Right 9
+55 49Right 8
+55 48Right 7
+55 47Right 6
+55 46Right 5
+55 45Right 4
+55 44Right 3
+55 43Right 2
+55 42Right
+-----------------------
+info:     end player 3
+info: end round 47
+info: start round 48
+info:     start player 0
+At round 48 player 0 has 1 alive units: 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 48 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 48 player 2 has 1 alive units: 7 at pos (7, 15); 
+info:     end player 2
+info:     start player 3
+52 54Right 15
+53 54Up 14
+54 54Up 13
+55 54Up 12
+55 53Right 11
+55 52Right 10
+55 51Right 9
+55 50Right 8
+55 49Right 7
+55 48Right 6
+55 47Right 5
+55 46Right 4
+55 45Right 3
+55 44Right 2
+55 43Right
+-----------------------
+info:     end player 3
+info: end round 48
+info: start round 49
+info:     start player 0
+At round 49 player 0 has 1 alive units: 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 49 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 49 player 2 has 1 alive units: 7 at pos (7, 16); 
+info:     end player 2
+info:     start player 3
+52 54Right 14
+53 54Up 13
+54 54Up 12
+55 54Up 11
+55 53Right 10
+55 52Right 9
+55 51Right 8
+55 50Right 7
+55 49Right 6
+55 48Right 5
+55 47Right 4
+55 46Right 3
+55 45Right 2
+55 44Right
+-----------------------
+info:     end player 3
+info: end round 49
+info: start round 50
+info:     start player 0
+At round 50 player 0 has 2 alive units: 4 at pos (39, 35); 10 at pos (43, 42); 
+info:     end player 0
+info:     start player 1
+At round 50 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 50 player 2 has 2 alive units: 6 at pos (41, 38); 7 at pos (7, 16); 
+info:     end player 2
+info:     start player 3
+52 54Right 13
+53 54Up 12
+54 54Up 11
+55 54Up 10
+55 53Right 9
+55 52Right 8
+55 51Right 7
+55 50Right 6
+55 49Right 5
+55 48Right 4
+55 47Right 3
+55 46Right 2
+55 45Right
+-----------------------
+info:     end player 3
+info: end round 50
+info: start round 51
+info:     start player 0
+At round 51 player 0 has 2 alive units: 4 at pos (40, 35); 10 at pos (43, 41); 
+info:     end player 0
+info:     start player 1
+At round 51 player 1 has 1 alive units: 6 at pos (41, 37); 
+info:     end player 1
+info:     start player 2
+At round 51 player 2 has 1 alive units: 7 at pos (8, 16); 
+info:     end player 2
+info:     start player 3
+52 54Right 12
+53 54Up 11
+54 54Up 10
+55 54Up 9
+55 53Right 8
+55 52Right 7
+55 51Right 6
+55 50Right 5
+55 49Right 4
+55 48Right 3
+55 47Right 2
+55 46Right
+-----------------------
+info:     end player 3
+info: end round 51
+info: start round 52
+info:     start player 0
+At round 52 player 0 has 2 alive units: 4 at pos (40, 35); 10 at pos (43, 41); 
+info:     end player 0
+info:     start player 1
+At round 52 player 1 has 1 alive units: 6 at pos (41, 37); 
+info:     end player 1
+info:     start player 2
+At round 52 player 2 has 1 alive units: 7 at pos (8, 15); 
+info:     end player 2
+info:     start player 3
+52 54Right 11
+53 54Up 10
+54 54Up 9
+55 54Up 8
+55 53Right 7
+55 52Right 6
+55 51Right 5
+55 50Right 4
+55 49Right 3
+55 48Right 2
+55 47Right
+-----------------------
+info:     end player 3
+info: end round 52
+info: start round 53
+info:     start player 0
+At round 53 player 0 has 1 alive units: 4 at pos (40, 35); 
+info:     end player 0
+info:     start player 1
+At round 53 player 1 has 1 alive units: 6 at pos (40, 37); 
+info:     end player 1
+info:     start player 2
+At round 53 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+52 54Right 10
+53 54Up 9
+54 54Up 8
+55 54Up 7
+55 53Right 6
+55 52Right 5
+55 51Right 4
+55 50Right 3
+55 49Right 2
+55 48Right
+-----------------------
+info:     end player 3
+info: end round 53
+info: start round 54
+info:     start player 0
+At round 54 player 0 has 1 alive units: 4 at pos (40, 35); 
+info:     end player 0
+info:     start player 1
+At round 54 player 1 has 1 alive units: 6 at pos (40, 37); 
+info:     end player 1
+info:     start player 2
+At round 54 player 2 has 1 alive units: 12 at pos (55, 49); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 54
+info: start round 55
+info:     start player 0
+At round 55 player 0 has 1 alive units: 4 at pos (40, 35); 
+info:     end player 0
+info:     start player 1
+At round 55 player 1 has 1 alive units: 6 at pos (41, 37); 
+info:     end player 1
+info:     start player 2
+At round 55 player 2 has 1 alive units: 12 at pos (55, 50); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 55
+info: start round 56
+info:     start player 0
+At round 56 player 0 has 1 alive units: 4 at pos (40, 35); 
+info:     end player 0
+info:     start player 1
+At round 56 player 1 has 1 alive units: 6 at pos (41, 37); 
+info:     end player 1
+info:     start player 2
+At round 56 player 2 has 1 alive units: 12 at pos (55, 49); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 56
+info: start round 57
+info:     start player 0
+At round 57 player 0 has 1 alive units: 4 at pos (40, 35); 
+info:     end player 0
+info:     start player 1
+At round 57 player 1 has 1 alive units: 6 at pos (42, 37); 
+info:     end player 1
+info:     start player 2
+At round 57 player 2 has 1 alive units: 12 at pos (55, 48); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 57
+info: start round 58
+info:     start player 0
+At round 58 player 0 has 1 alive units: 4 at pos (40, 35); 
+info:     end player 0
+info:     start player 1
+At round 58 player 1 has 1 alive units: 6 at pos (42, 37); 
+info:     end player 1
+info:     start player 2
+At round 58 player 2 has 1 alive units: 12 at pos (55, 47); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 58
+info: start round 59
+info:     start player 0
+At round 59 player 0 has 1 alive units: 4 at pos (41, 35); 
+info:     end player 0
+info:     start player 1
+At round 59 player 1 has 1 alive units: 6 at pos (41, 37); 
+info:     end player 1
+info:     start player 2
+At round 59 player 2 has 1 alive units: 12 at pos (54, 47); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 59
+info: start round 60
+info:     start player 0
+At round 60 player 0 has 1 alive units: 4 at pos (41, 35); 
+info:     end player 0
+info:     start player 1
+At round 60 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 60 player 2 has 1 alive units: 12 at pos (54, 47); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 60
+info: start round 61
+info:     start player 0
+At round 61 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 61 player 1 has 1 alive units: 12 at pos (55, 47); 
+info:     end player 1
+info:     start player 2
+At round 61 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 61
+info: start round 62
+info:     start player 0
+At round 62 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 62 player 1 has 1 alive units: 12 at pos (55, 47); 
+info:     end player 1
+info:     start player 2
+At round 62 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 62
+info: start round 63
+info:     start player 0
+At round 63 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 63 player 1 has 1 alive units: 12 at pos (54, 47); 
+info:     end player 1
+info:     start player 2
+At round 63 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (38, 36) with waste.
+info: end round 63
+info: start round 64
+info:     start player 0
+At round 64 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 64 player 1 has 1 alive units: 12 at pos (54, 47); 
+info:     end player 1
+info:     start player 2
+At round 64 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (38, 36) with waste.
+info: end round 64
+info: start round 65
+info:     start player 0
+At round 65 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 65 player 1 has 1 alive units: 12 at pos (54, 48); 
+info:     end player 1
+info:     start player 2
+At round 65 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (38, 36) with waste.
+info: end round 65
+info: start round 66
+info:     start player 0
+At round 66 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 66 player 1 has 1 alive units: 12 at pos (54, 47); 
+info:     end player 1
+info:     start player 2
+At round 66 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 66
+info: start round 67
+info:     start player 0
+At round 67 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 67 player 1 has 1 alive units: 12 at pos (53, 47); 
+info:     end player 1
+info:     start player 2
+At round 67 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 67
+info: start round 68
+info:     start player 0
+At round 68 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 68 player 1 has 1 alive units: 12 at pos (53, 47); 
+info:     end player 1
+info:     start player 2
+At round 68 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (37, 39) with waste.
+info: end round 68
+info: start round 69
+info:     start player 0
+At round 69 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 69 player 1 has 1 alive units: 12 at pos (52, 47); 
+info:     end player 1
+info:     start player 2
+At round 69 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 69
+info: start round 70
+info:     start player 0
+At round 70 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 70 player 1 has 1 alive units: 12 at pos (52, 47); 
+info:     end player 1
+info:     start player 2
+At round 70 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 70
+info: start round 71
+info:     start player 0
+At round 71 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 71 player 1 has 0 alive units: 
+info:     end player 1
+info:     start player 2
+At round 71 player 2 has 1 alive units: 12 at pos (52, 46); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 71
+info: start round 72
+info:     start player 0
+At round 72 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 72 player 1 has 1 alive units: 12 at pos (52, 46); 
+info:     end player 1
+info:     start player 2
+At round 72 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 72
+info: start round 73
+info:     start player 0
+At round 73 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 73 player 1 has 1 alive units: 12 at pos (52, 47); 
+info:     end player 1
+info:     start player 2
+At round 73 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 73
+info: start round 74
+info:     start player 0
+At round 74 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 74 player 1 has 1 alive units: 12 at pos (52, 47); 
+info:     end player 1
+info:     start player 2
+At round 74 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (38, 36) with waste.
+info: end round 74
+info: start round 75
+info:     start player 0
+At round 75 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 75 player 1 has 1 alive units: 12 at pos (51, 47); 
+info:     end player 1
+info:     start player 2
+At round 75 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 75
+info: start round 76
+info:     start player 0
+At round 76 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 76 player 1 has 1 alive units: 12 at pos (51, 47); 
+info:     end player 1
+info:     start player 2
+At round 76 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 76
+info: start round 77
+info:     start player 0
+At round 77 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 77 player 1 has 1 alive units: 12 at pos (51, 48); 
+info:     end player 1
+info:     start player 2
+At round 77 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (29, 1) with waste.
+info: end round 77
+info: start round 78
+info:     start player 0
+At round 78 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 78 player 1 has 1 alive units: 12 at pos (51, 47); 
+info:     end player 1
+info:     start player 2
+At round 78 player 2 has 0 alive units: 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 78
+info: start round 79
+info:     start player 0
+At round 79 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 79 player 1 has 1 alive units: 12 at pos (52, 47); 
+info:     end player 1
+info:     start player 2
+At round 79 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 79
+info: start round 80
+info:     start player 0
+At round 80 player 0 has 1 alive units: 4 at pos (43, 35); 
+info:     end player 0
+info:     start player 1
+At round 80 player 1 has 1 alive units: 12 at pos (52, 46); 
+info:     end player 1
+info:     start player 2
+At round 80 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 80
+info: start round 81
+info:     start player 0
+At round 81 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 81 player 1 has 1 alive units: 12 at pos (52, 45); 
+info:     end player 1
+info:     start player 2
+At round 81 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 81
+info: start round 82
+info:     start player 0
+At round 82 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 82 player 1 has 1 alive units: 12 at pos (52, 44); 
+info:     end player 1
+info:     start player 2
+At round 82 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 82
+info: start round 83
+info:     start player 0
+At round 83 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 83 player 1 has 1 alive units: 12 at pos (52, 45); 
+info:     end player 1
+info:     start player 2
+At round 83 player 2 has 1 alive units: 10 at pos (29, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 83
+info: start round 84
+info:     start player 0
+At round 84 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 84 player 1 has 1 alive units: 12 at pos (52, 44); 
+info:     end player 1
+info:     start player 2
+At round 84 player 2 has 1 alive units: 10 at pos (29, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 84
+info: start round 85
+info:     start player 0
+At round 85 player 0 has 1 alive units: 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 85 player 1 has 1 alive units: 12 at pos (52, 43); 
+info:     end player 1
+info:     start player 2
+At round 85 player 2 has 1 alive units: 10 at pos (29, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 85
+info: start round 86
+info:     start player 0
+At round 86 player 0 has 2 alive units: 2 at pos (3, 24); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 86 player 1 has 1 alive units: 12 at pos (52, 42); 
+info:     end player 1
+info:     start player 2
+At round 86 player 2 has 1 alive units: 10 at pos (29, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 86
+info: start round 87
+info:     start player 0
+At round 87 player 0 has 2 alive units: 2 at pos (3, 25); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 87 player 1 has 1 alive units: 12 at pos (52, 41); 
+info:     end player 1
+info:     start player 2
+At round 87 player 2 has 1 alive units: 10 at pos (30, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 87
+info: start round 88
+info:     start player 0
+At round 88 player 0 has 2 alive units: 2 at pos (3, 25); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 88 player 1 has 1 alive units: 12 at pos (52, 40); 
+info:     end player 1
+info:     start player 2
+At round 88 player 2 has 1 alive units: 10 at pos (30, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 88
+info: start round 89
+info:     start player 0
+At round 89 player 0 has 2 alive units: 2 at pos (3, 26); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 89 player 1 has 1 alive units: 12 at pos (52, 41); 
+info:     end player 1
+info:     start player 2
+At round 89 player 2 has 1 alive units: 10 at pos (29, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 89
+info: start round 90
+info:     start player 0
+At round 90 player 0 has 2 alive units: 2 at pos (3, 25); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 90 player 1 has 1 alive units: 12 at pos (52, 41); 
+info:     end player 1
+info:     start player 2
+At round 90 player 2 has 1 alive units: 10 at pos (29, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 90
+info: start round 91
+info:     start player 0
+At round 91 player 0 has 2 alive units: 2 at pos (3, 24); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 91 player 1 has 1 alive units: 12 at pos (51, 41); 
+info:     end player 1
+info:     start player 2
+At round 91 player 2 has 1 alive units: 10 at pos (30, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 91
+info: start round 92
+info:     start player 0
+At round 92 player 0 has 2 alive units: 2 at pos (3, 24); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 92 player 1 has 1 alive units: 12 at pos (51, 40); 
+info:     end player 1
+info:     start player 2
+At round 92 player 2 has 1 alive units: 10 at pos (30, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 92
+info: start round 93
+info:     start player 0
+At round 93 player 0 has 2 alive units: 2 at pos (3, 25); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 93 player 1 has 1 alive units: 12 at pos (52, 40); 
+info:     end player 1
+info:     start player 2
+At round 93 player 2 has 1 alive units: 10 at pos (29, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 93
+info: start round 94
+info:     start player 0
+At round 94 player 0 has 2 alive units: 2 at pos (3, 24); 4 at pos (42, 35); 
+info:     end player 0
+info:     start player 1
+At round 94 player 1 has 1 alive units: 12 at pos (52, 39); 
+info:     end player 1
+info:     start player 2
+At round 94 player 2 has 1 alive units: 10 at pos (29, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 94
+info: start round 95
+info:     start player 0
+At round 95 player 0 has 1 alive units: 4 at pos (41, 35); 
+info:     end player 0
+info:     start player 1
+At round 95 player 1 has 1 alive units: 12 at pos (53, 39); 
+info:     end player 1
+info:     start player 2
+At round 95 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (5, 24) with waste.
+info: end round 95
+info: start round 96
+info:     start player 0
+At round 96 player 0 has 1 alive units: 4 at pos (41, 35); 
+info:     end player 0
+info:     start player 1
+At round 96 player 1 has 1 alive units: 12 at pos (53, 38); 
+info:     end player 1
+info:     start player 2
+At round 96 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 96
+info: start round 97
+info:     start player 0
+At round 97 player 0 has 1 alive units: 4 at pos (41, 35); 
+info:     end player 0
+info:     start player 1
+At round 97 player 1 has 1 alive units: 12 at pos (54, 38); 
+info:     end player 1
+info:     start player 2
+At round 97 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 97
+info: start round 98
+info:     start player 0
+At round 98 player 0 has 2 alive units: 1 at pos (30, 41); 4 at pos (41, 35); 
+info:     end player 0
+info:     start player 1
+At round 98 player 1 has 1 alive units: 12 at pos (54, 37); 
+info:     end player 1
+info:     start player 2
+At round 98 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (5, 22) with waste.
+info: end round 98
+info: start round 99
+info:     start player 0
+At round 99 player 0 has 2 alive units: 1 at pos (31, 41); 4 at pos (40, 35); 
+info:     end player 0
+info:     start player 1
+At round 99 player 1 has 1 alive units: 12 at pos (54, 38); 
+info:     end player 1
+info:     start player 2
+At round 99 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (5, 22) with waste.
+info: end round 99
+info: start round 100
+info:     start player 0
+At round 100 player 0 has 2 alive units: 1 at pos (31, 40); 4 at pos (40, 35); 
+info:     end player 0
+info:     start player 1
+At round 100 player 1 has 1 alive units: 12 at pos (54, 37); 
+info:     end player 1
+info:     start player 2
+At round 100 player 2 has 1 alive units: 10 at pos (28, 2); 
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 100
+info: start round 101
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 101
+info: start round 102
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 102
+info: start round 103
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 103
+info: start round 104
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 104
+info: start round 105
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 105
+info: start round 106
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (4, 19) with waste.
+info: end round 106
+info: start round 107
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (4, 19) with waste.
+info: end round 107
+info: start round 108
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 108
+info: start round 109
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 109
+info: start round 110
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 110
+info: start round 111
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 111
+info: start round 112
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (4, 19) with waste.
+info: end round 112
+info: start round 113
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 113
+info: start round 114
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 114
+info: start round 115
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (5, 19) with waste.
+info: end round 115
+info: start round 116
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 116
+info: start round 117
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 117
+info: start round 118
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 118
+info: start round 119
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 119
+info: start round 120
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 120
+info: start round 121
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 121
+info: start round 122
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (30, 56) with waste.
+info: end round 122
+info: start round 123
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+warning: cannot move to position (30, 56) with waste.
+info: end round 123
+info: start round 124
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 124
+info: start round 125
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 125
+info: start round 126
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 126
+info: start round 127
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 127
+info: start round 128
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 128
+info: start round 129
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 129
+info: start round 130
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 130
+info: start round 131
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 131
+info: start round 132
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 132
+info: start round 133
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 133
+info: start round 134
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 134
+info: start round 135
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 135
+info: start round 136
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 136
+info: start round 137
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 137
+info: start round 138
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 138
+info: start round 139
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 139
+info: start round 140
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 140
+info: start round 141
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 141
+info: start round 142
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 142
+info: start round 143
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 143
+info: start round 144
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 144
+info: start round 145
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 145
+info: start round 146
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 146
+info: start round 147
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 147
+info: start round 148
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 148
+info: start round 149
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 149
+info: start round 150
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 150
+info: start round 151
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 151
+info: start round 152
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 152
+info: start round 153
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 153
+info: start round 154
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 154
+info: start round 155
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 155
+info: start round 156
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 156
+info: start round 157
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 157
+info: start round 158
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 158
+info: start round 159
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 159
+info: start round 160
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 160
+info: start round 161
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 161
+info: start round 162
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 162
+info: start round 163
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 163
+info: start round 164
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 164
+info: start round 165
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 165
+info: start round 166
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 166
+info: start round 167
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 167
+info: start round 168
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 168
+info: start round 169
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 169
+info: start round 170
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 170
+info: start round 171
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 171
+info: start round 172
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 172
+info: start round 173
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 173
+info: start round 174
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 174
+info: start round 175
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 175
+info: start round 176
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 176
+info: start round 177
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 177
+info: start round 178
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 178
+info: start round 179
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 179
+info: start round 180
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 180
+info: start round 181
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 181
+info: start round 182
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 182
+info: start round 183
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 183
+info: start round 184
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 184
+info: start round 185
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 185
+info: start round 186
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 186
+info: start round 187
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 187
+info: start round 188
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 188
+info: start round 189
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 189
+info: start round 190
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 190
+info: start round 191
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 191
+info: start round 192
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 192
+info: start round 193
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 193
+info: start round 194
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 194
+info: start round 195
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 195
+info: start round 196
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 196
+info: start round 197
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 197
+info: start round 198
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 198
+info: start round 199
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 199
+info: player Demo got score 43
+info: player Demo got score 29
+info: player Demo got score 27
+info: player Nya got score 70
+info: player(s) Nya got top score
+info: game played

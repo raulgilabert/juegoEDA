@@ -21,17 +21,52 @@
 #define PLAYER_NAME Nya
 #define in :
 #define Inf 100
+#define MAX_DIST 20
 
 typedef vector<int> VI;
-typedef vector<bool> VB;
+
 typedef vector<Cell> VC;
 typedef vector<VC> VVC;
 
-typedef pair<int, int> PII;
-typedef queue<PII> QPII;
-typedef list<PII> LPII;
-typedef vector<PII> VPII;
+struct Data_visited {
+    bool visited;
+    Dir direction;
+    int distance;
+    int x;
+    int y;
 
+    Data_visited() {
+        visited = false;
+        direction = Up;
+        distance = -1;
+        x = -1;
+        y = -1;
+   }
+};
+
+typedef vector<Data_visited> VData_visited;
+typedef vector<VData_visited> VVData_visited;
+
+struct Data_to_visit {
+    Dir direction;
+    int distance;
+    int x;
+    int y;
+    int prev_x;
+    int prev_y;
+
+    Data_to_visit(Dir direction, int distance, int x, int y, int prev_x, int
+    prev_y) {
+        this->direction = direction;
+        this->distance = distance;
+        this->x = x;
+        this->y = y;
+        this->prev_x = prev_x;
+        this->prev_y = prev_y;
+    }
+};
+
+typedef queue<Data_to_visit> QData_to_visit;
 
 
 struct PLAYER_NAME : public Player {
@@ -49,55 +84,136 @@ struct PLAYER_NAME : public Player {
     * Types and attributes for your player can be defined here.
     */
 
-    void add_tiles(const VVC& G, QPII& to_visit, const VB& visited, int x,
-                   int y) {
-        if (not visited[y*60 + x + 1] and pos_ok(x + 1, y))
-            to_visit.push(PII(x + 1, y));
+    void add_tiles(QData_to_visit& to_visit,
+                   const VVData_visited& visited, int x, int y, int distance) {
+        /*
+         * Explicación de los tipos usados aquí:
+         * El struct Data_to_visit tiene estos elementos porque es necesario
+         * tener guardada la dirección que se toma desde la célula anterior a
+         * esta que se visita además de la distancia que hay desde el inicio
+         * junto con la obviamente necesaria posición de la celda a visitar
+         */
 
-        if (not visited[y*60 + x - 1] and pos_ok(x - 1, y))
-            to_visit.push(PII(x - 1, y));
+        if (pos_ok(Pos(x, y) + Down) and not visited[y][x + 1].visited
+        and cell(Pos(x, y) + Down).type == Street)
+            to_visit.push(
+                    Data_to_visit(Down, distance, x + 1, y,
+                                  x, y));
 
-        if (not visited[(y + 1)*60 + x] and pos_ok(x, y + 1))
-            to_visit.push(PII(x, y + 1));
+        if (pos_ok(Pos(x, y) + Up) and not visited[y][x - 1].visited
+        and cell(Pos(x, y) + Up).type == Street)
+            to_visit.push(
+                    Data_to_visit(Up, distance, x - 1, y,
+                                  x ,y));
 
-        if (not visited[(y - 1)*60 + x] and pos_ok(x, y - 1))
-            to_visit.push(PII(x, y - 1));
+        if (pos_ok(Pos(x, y) + Right) and not
+        visited[y + 1][x].visited and
+        cell(Pos(x, y) + Right).type == Street)
+            to_visit.push(
+                    Data_to_visit(Right, distance, x, y + 1,
+                                  x, y));
+
+        if (pos_ok(Pos(x, y) + Left) and not visited[y - 1][x].visited
+        and cell(Pos(x, y) + Left).type == Street)
+            to_visit.push(
+                    Data_to_visit(Left, distance, x, y - 1,
+                                  x, y));
     }
 
 
-    void bfs(const VVC& G, QPII& to_visit, VB& visited, int x, int y) {
+    Dir bfs_food(int x, int y) {
+        VVData_visited visited(60, VData_visited(60));
 
+        Data_visited origin_cell;
+        origin_cell.visited = true;
+        origin_cell.distance = 0;
 
-    }
+        visited[y][x] = origin_cell;
 
-    pair<int, Dir> bfs_i(const VVC& G, int x, int y) {
-        //LPII visited;
-        QPII to_visit;
-        QPII to_visit_new;
+        /*
+         * Hay que añadir las casillas adyacentes que no sean pared a la cola
+         * de posiciones que mirar
+         */
 
-        //visited.insert(visited.end(), pair<int, int>(x, y));
+        QData_to_visit to_visit;
 
-        VB visited(60*60, false);
+        add_tiles(to_visit, visited, x, y, 1);
 
-        add_tiles(G, to_visit_new, visited, x, y);
+        /*
+         * Se recorre la cola hasta que esta esté vacía o se llegue a una
+         * distancia demasiado grande desde el inicio hasta las posiciones
+         * que se visitan o ya se haya encontrado comida
+         */
+        while (not to_visit.empty() and to_visit.front().distance < MAX_DIST) {
+            /*
+             * TODO: Hay que hacer todavía la lógica de aquí que ya desarrollaré
+             * después
+             */
 
-        bool found = false;
+            if (cell(to_visit.front().x, to_visit.front().y).food) {
+                Data_visited new_cell;
+                new_cell.visited = true;
+                new_cell.distance = to_visit.front().distance;
+                new_cell.direction = to_visit.front().direction;
 
-        int distance = 0;
+                new_cell.x = to_visit.front().prev_x;
+                new_cell.y = to_visit.front().prev_y;
 
-        vector<PII> nodes_found;
+                visited[to_visit.front().y][to_visit.front().x] = new_cell;
 
-        while (not to_visit_new.empty() and not found) {
-            ++distance;
-            to_visit = to_visit_new;
-            while (not to_visit.empty()) {
-                auto current_node = to_visit.front();
+                auto current_cell = visited[to_visit.front().y]
+                        [to_visit.front().x];
 
-                if
+                while (current_cell.distance > 1) {
+/*                    cerr << current_pos << ' ' << current_cell.distance <<
+endl;
 
+                    current_pos += current_cell.direction;
+                    current_cell = visited[current_pos.j][current_pos.i];*/
+
+                    /*
+                     *
+                     */
+
+                    cerr << current_cell.x << ' ' << current_cell.y <<
+                    current_cell.direction << ' ' << current_cell.distance
+                            << endl;
+                    current_cell = visited[current_cell.y][current_cell.x];
+                }
+                cerr << current_cell.x << ' ' << current_cell.y <<
+                current_cell.direction << endl;
+                cerr << "-----------------------" << endl;
+                return current_cell.direction;
             }
+
+            add_tiles(to_visit, visited, to_visit.front().x,
+                      to_visit.front().y,
+                      to_visit.front().distance + 1);
+
+            Data_visited new_cell;
+            new_cell.visited = true;
+            new_cell.distance = to_visit.front().distance;
+            new_cell.direction = to_visit.front().direction;
+
+            new_cell.x = to_visit.front().prev_x;
+            new_cell.y = to_visit.front().prev_y;
+
+            visited[to_visit.front().y][to_visit.front().x] = new_cell;
+
+            to_visit.pop();
         }
 
+
+        vector<Dir> dirs = {Up, Down, Left, Right};
+        Dir dir = dirs[random(0, 3)];
+
+        return dir;
+
+        /*
+         * TODO: En caso de que found sea true se mira desde el elemento que se
+         * ha tratado en último lugar en el while. Si es false se devuelve una
+         * dirección aleatoria
+         */
     }
 
 
@@ -113,33 +229,15 @@ struct PLAYER_NAME : public Player {
 
         vector<pair<int, Dir>> movements;
 
-        // Create map
-        cerr << "1" << endl;
-        VVC terrain = VVC(60, VC(60));
-        for (int i = 0; i < 60; ++i) {
-            for (int j = 0; j < 60; ++j) {
-                terrain[i][j] = cell(i, j);
-            }
-        }
-
-        cerr << "2" << endl;
         // Search for food for every troop
-        
         for (auto troop in mine_alive) {
             auto t = unit(troop);
-
-            cerr << "3" << endl;
-            movements.emplace_back(pair<int, Dir>(troop, bfs_i(terrain,
+            movements.emplace_back(pair<int, Dir>(troop, bfs_food(
                                                                t.pos.i,
-                                                               t.pos.j)
-                                                                .second));
-            cerr << "3 finished" << endl;
+                                                               t.pos.j)));
         }
     
-        cerr << "4" << endl;
-
         for (auto mov in movements) {
-            cerr << "5" << endl;
             move(mov.first, mov.second);
         }
     }

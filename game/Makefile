@@ -38,6 +38,12 @@ OBJ = Structs.o Settings.o State.o Info.o Random.o Board.o Action.o Player.o Reg
 
 all: Game
 
+AIDummy.o: AIDummy.o.Linux64
+	cp AIDummy.o.Linux64 AIDummy.o
+
+Board.o: Board.o.Linux64
+	cp Board.o.Linux64 Board.o
+
 clean:
 	rm -rf Game  *.o *.exe Makefile.deps
 
