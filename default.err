@@ -1,0 +1,4125 @@
+info: seed 10
+info: loading game
+info: loaded game
+info: loading player Dummy
+info: loading player Dummy
+info: loading player Dummy
+info: loading player Nyaa
+info: players loaded
+info: start round 0
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 0
+info: start round 1
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(35, 27) UL
+warning: unit requested for identifier -1
+(32, 47) Up
+(30, 31) Up
+info:     end player 3
+info: end round 1
+info: start round 2
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(2, 43) Up
+(31, 15) UL
+warning: unit requested for identifier -1
+(36, 27) UL
+warning: unit requested for identifier -1
+(24, 48) DR
+warning: unit requested for identifier -1
+(30, 30) UL
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 2
+info: start round 3
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(32, 15) UL
+warning: unit requested for identifier -1
+(39, 54) Up
+(23, 48) DR
+warning: unit requested for identifier -1
+(42, 14) UL
+warning: unit requested for identifier -1
+(31, 30) Up
+info:     end player 3
+info: end round 3
+info: start round 4
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 54) RU
+warning: unit requested for identifier -1
+(45, 37) Up
+(22, 48) DR
+warning: unit requested for identifier -1
+(43, 14) UL
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 4
+info: start round 5
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 15) RU
+warning: unit requested for identifier -1
+(38, 53) RU
+warning: unit requested for identifier -1
+(37, 3) UL
+warning: unit requested for identifier -1
+(45, 37) UL
+warning: unit requested for identifier -1
+(21, 48) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 5
+info: start round 6
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 14) RU
+warning: unit requested for identifier -1
+(25, 15) Up
+(46, 37) Up
+(13, 59) Up
+(20, 48) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 6
+info: start round 7
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 52)
+(46, 45) Up
+(58, 17) UL
+warning: unit requested for identifier -1
+(37, 3) UL
+warning: unit requested for identifier -1
+(45, 37) UL
+warning: unit requested for identifier -1
+(19, 48) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 7
+info: start round 8
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 52)
+(46, 45) UL
+warning: unit requested for identifier -1
+(17, 48) RU
+warning: unit requested for identifier -1
+(18, 48) DR
+info:     end player 3
+info: end round 8
+info: start round 9
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 52)
+(58, 17) UL
+warning: unit requested for identifier -1
+(37, 3) UL
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 9
+info: start round 10
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 5)
+warning: cell requested for position (-1, 52)
+(18, 47) Up
+info:     end player 3
+info: end round 10
+info: start round 11
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(58, 17) UL
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 11
+info: start round 12
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(21, 13) DR
+warning: unit requested for identifier -1
+(46, 52) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 12
+info: start round 13
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 5)
+(47, 46) LD
+warning: unit requested for identifier -1
+(45, 52) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 13
+info: start round 14
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 5)
+(44, 52) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 14
+info: start round 15
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 5)
+(17, 47) DR
+warning: unit requested for identifier -1
+(43, 52) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 15
+info: start round 16
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(16, 46) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 5)
+(53, 41) Up
+(53, 21) Up
+(7, 30) Up
+info:     end player 3
+info: end round 16
+info: start round 17
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 5)
+info:     end player 3
+info: end round 17
+info: start round 18
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 5)
+(54, 41) UL
+warning: unit requested for identifier -1
+(17, 48) Up
+(22, 10) RU
+warning: unit requested for identifier -1
+(41, 52) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 18
+info: start round 19
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 8) Up
+warning: cell requested for position (60, 5)
+(22, 9) UL
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 19
+info: start round 20
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 5)
+(59, 6) UL
+warning: unit requested for identifier -1
+(14, 50) Up
+(23, 9) Up
+(41, 51) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 20
+info: start round 21
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(59, 7) Up
+(55, 42) Up
+(45, 48) Up
+(1, 5) Up
+(16, 48) Up
+(40, 51) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 21
+info: start round 22
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(59, 20) Up
+(1, 5) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 22
+info: start round 23
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(54, 42) UL
+warning: unit requested for identifier -1
+(1, 4) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 23
+info: start round 24
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(42, 31) DR
+warning: unit requested for identifier -1
+(58, 20) DR
+warning: unit requested for identifier -1
+(1, 3) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 24
+info: start round 25
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(54, 54) DR
+warning: unit requested for identifier -1
+(17, 48) Up
+(1, 2) RU
+warning: unit requested for identifier -1
+(7, 32) Up
+info:     end player 3
+info: end round 25
+info: start round 26
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(53, 54) DR
+warning: unit requested for identifier -1
+(17, 47) Up
+info:     end player 3
+info: end round 26
+info: start round 27
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(52, 54) DR
+warning: unit requested for identifier -1
+(17, 48) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 27
+info: start round 28
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(16, 48) RU
+warning: unit requested for identifier -1
+(1, 0) Up
+(17, 47) Up
+info:     end player 3
+info: end round 28
+info: start round 29
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(16, 47) Up
+(39, 48) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 29
+info: start round 30
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(51, 55) Up
+(16, 47) Up
+(42, 31) Up
+(27, 55) Up
+(1, 0) DR
+warning: unit requested for identifier -1
+(17, 48) RU
+warning: unit requested for identifier -1
+(39, 49) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 30
+info: start round 31
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(16, 47) DR
+warning: unit requested for identifier -1
+(42, 31) Up
+(27, 39) Up
+(0, 0) DR
+warning: unit requested for identifier -1
+(39, 50) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 31
+info: start round 32
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(51, 54) Up
+(34, 26) Up
+(42, 31) Up
+(17, 47) DR
+warning: unit requested for identifier -1
+(0, 45) LD
+warning: unit requested for identifier -1
+(39, 51) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 32
+info: start round 33
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 18) Up
+(34, 25) Up
+(42, 31) Up
+(26, 39) LD
+warning: unit requested for identifier -1
+(0, 46) LD
+warning: unit requested for identifier -1
+(39, 52) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 33
+info: start round 34
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(51, 54) Up
+(42, 31) Up
+(17, 47) DR
+warning: unit requested for identifier -1
+(0, 47) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 34
+info: start round 35
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(53, 23) Up
+(38, 18) Up
+(33, 25) LD
+warning: unit requested for identifier -1
+(43, 14) Up
+(26, 39) LD
+warning: unit requested for identifier -1
+(0, 48) LD
+warning: unit requested for identifier -1
+(43, 32) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 35
+info: start round 36
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(36, 10) RU
+warning: unit requested for identifier -1
+(51, 54) Up
+(53, 53) LD
+warning: unit requested for identifier -1
+(0, 49) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 36
+info: start round 37
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 18) Up
+(36, 9) LD
+warning: unit requested for identifier -1
+(51, 54) DR
+warning: unit requested for identifier -1
+(38, 55) RU
+warning: unit requested for identifier -1
+(53, 54) RU
+warning: unit requested for identifier -1
+(26, 39) LD
+warning: unit requested for identifier -1
+(14, 15) Up
+(0, 50) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 37
+info: start round 38
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 18) RU
+warning: unit requested for identifier -1
+(26, 40) LD
+warning: unit requested for identifier -1
+(0, 51) Up
+info:     end player 3
+info: end round 38
+info: start round 39
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(26, 41) LD
+warning: unit requested for identifier -1
+(42, 32) Up
+info:     end player 3
+info: end round 39
+info: start round 40
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(36, 8) Up
+(2, 41) Up
+(26, 42) LD
+warning: unit requested for identifier -1
+(37, 4) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 40
+info: start round 41
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 25) LD
+warning: unit requested for identifier -1
+(53, 26) Up
+(37, 5) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 41
+info: start round 42
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(36, 8) Up
+(33, 26) LD
+warning: unit requested for identifier -1
+(36, 5) Up
+(35, 52) UL
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 42
+info: start round 43
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 27) LD
+warning: unit requested for identifier -1
+(2, 41) Up
+(36, 5) DR
+warning: unit requested for identifier -1
+(43, 31) Up
+(36, 52) UL
+info:     end player 3
+info: end round 43
+info: start round 44
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(53, 53) Up
+(33, 28) LD
+warning: unit requested for identifier -1
+(2, 41) DR
+warning: unit requested for identifier -1
+(3, 49) Up
+(35, 5) Up
+(5, 13) Up
+(36, 52) UL
+info:     end player 3
+info: end round 44
+info: start round 45
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 29) LD
+warning: unit requested for identifier -1
+(2, 49) LD
+warning: unit requested for identifier -1
+(46, 19) Up
+(36, 5) DR
+warning: unit requested for identifier -1
+(36, 52) UL
+info:     end player 3
+info: end round 45
+info: start round 46
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(36, 8) Up
+(36, 29) Up
+(46, 20) Up
+(33, 30) LD
+warning: unit requested for identifier -1
+(2, 41) DR
+warning: unit requested for identifier -1
+(26, 31) DR
+warning: unit requested for identifier -1
+(2, 50) UL
+warning: unit requested for identifier -1
+(35, 5) Up
+(36, 52) UL
+info:     end player 3
+info: end round 46
+info: start round 47
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(36, 8) Up
+(25, 31) DR
+warning: unit requested for identifier -1
+(2, 50) UL
+warning: unit requested for identifier -1
+(45, 19) LD
+warning: unit requested for identifier -1
+(36, 52) UL
+info:     end player 3
+info: end round 47
+info: start round 48
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(2, 41) DR
+warning: unit requested for identifier -1
+(26, 41) LD
+warning: unit requested for identifier -1
+(43, 30) Up
+(36, 52) UL
+info:     end player 3
+info: end round 48
+info: start round 49
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(46, 13) Up
+(45, 19) LD
+warning: unit requested for identifier -1
+(34, 31) LD
+warning: unit requested for identifier -1
+(1, 41) UL
+warning: unit requested for identifier -1
+(26, 42) LD
+warning: unit requested for identifier -1
+(45, 12) RU
+warning: unit requested for identifier -1
+(24, 55) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 49
+info: start round 50
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(36, 6) Up
+(34, 32) Up
+(2, 41) UL
+warning: unit requested for identifier -1
+(25, 42) Up
+(45, 11) Up
+(25, 55) RU
+warning: unit requested for identifier -1
+(42, 30) DR
+warning: unit requested for identifier -1
+(2, 51) LD
+warning: unit requested for identifier -1
+(9, 15) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 50
+info: start round 51
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(36, 6) UL
+warning: unit requested for identifier -1
+(27, 21) UL
+warning: unit requested for identifier -1
+(34, 32) LD
+warning: unit requested for identifier -1
+(9, 14) Up
+warning: cell requested for position (40, 60)
+info:     end player 3
+info: end round 51
+info: start round 52
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(37, 6) UL
+warning: unit requested for identifier -1
+(28, 21) UL
+warning: unit requested for identifier -1
+(34, 33) Up
+(36, 7) Up
+(42, 30) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (40, 60)
+info:     end player 3
+info: end round 52
+info: start round 53
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 32) LD
+warning: unit requested for identifier -1
+(36, 7) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (40, 60)
+info:     end player 3
+info: end round 53
+info: start round 54
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 33) Up
+(42, 30) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (40, 60)
+info:     end player 3
+info: end round 54
+info: start round 55
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(44, 18) LD
+warning: unit requested for identifier -1
+(34, 32) LD
+warning: unit requested for identifier -1
+(43, 17) Up
+(26, 37) Up
+warning: cell requested for position (40, 60)
+info:     end player 3
+info: end round 55
+info: start round 56
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(11, 25) DR
+warning: unit requested for identifier -1
+(44, 19) LD
+warning: unit requested for identifier -1
+(44, 17) DR
+warning: unit requested for identifier -1
+(7, 35) Up
+warning: cell requested for position (40, 60)
+info:     end player 3
+info: end round 56
+info: start round 57
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 25) DR
+warning: unit requested for identifier -1
+(44, 20) LD
+warning: unit requested for identifier -1
+(33, 8) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (40, 60)
+info:     end player 3
+info: end round 57
+info: start round 58
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(9, 25) Up
+(44, 21) LD
+warning: unit requested for identifier -1
+(33, 7) Up
+(16, 13) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (40, 60)
+warning: cell requested for position (40, 60)
+info:     end player 3
+info: end round 58
+info: start round 59
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 6) Up
+(9, 25) Up
+(33, 7) RU
+info:     end player 3
+info: end round 59
+info: start round 60
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 6) Up
+(46, 52) Up
+(33, 7) RU
+info:     end player 3
+info: end round 60
+info: start round 61
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 6) Up
+(33, 7) RU
+(17, 50) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 61
+info: start round 62
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 6) Up
+(33, 7) RU
+(16, 50) DR
+warning: unit requested for identifier -1
+(41, 57) LD
+warning: unit requested for identifier -1
+(43, 15) Up
+(40, 56) Up
+info:     end player 3
+info: end round 62
+info: start round 63
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 6) Up
+(10, 24) DR
+warning: unit requested for identifier -1
+(47, 22) Up
+(33, 7) RU
+(14, 14) Up
+(15, 50) DR
+warning: unit requested for identifier -1
+(41, 58) LD
+warning: unit requested for identifier -1
+(41, 56) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 63
+info: start round 64
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(29, 31) LD
+warning: unit requested for identifier -1
+(33, 6) Up
+(20, 2) RU
+warning: unit requested for identifier -1
+(14, 50) DR
+warning: unit requested for identifier -1
+(41, 59) LD
+warning: unit requested for identifier -1
+(43, 15) Up
+(40, 56) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 64
+info: start round 65
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(29, 32) LD
+warning: unit requested for identifier -1
+(47, 22) LD
+warning: unit requested for identifier -1
+(13, 50) DR
+warning: unit requested for identifier -1
+(40, 59) Up
+(40, 55) Up
+info:     end player 3
+info: end round 65
+info: start round 66
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(11, 23) Up
+(32, 19) DR
+warning: unit requested for identifier -1
+(9, 22) Up
+(47, 54) Up
+(42, 31) DR
+warning: unit requested for identifier -1
+(12, 50) DR
+warning: unit requested for identifier -1
+(43, 15) Up
+(40, 56) Up
+info:     end player 3
+info: end round 66
+info: start round 67
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 6) Up
+(46, 22) DR
+warning: unit requested for identifier -1
+(24, 16) UL
+warning: unit requested for identifier -1
+(56, 7) DR
+warning: unit requested for identifier -1
+(56, 42) LD
+warning: unit requested for identifier -1
+(12, 49) DR
+warning: unit requested for identifier -1
+(43, 15) DR
+warning: unit requested for identifier -1
+(40, 57) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 67
+info: start round 68
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(11, 24) Up
+(55, 7) Up
+warning: cell requested for position (-1, 42)
+(56, 43) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (29, -1)
+info:     end player 3
+info: end round 68
+info: start round 69
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 23) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 42)
+warning: cell requested for position (-1, 42)
+(56, 44) LD
+warning: unit requested for identifier -1
+(9, 15) Up
+warning: cell requested for position (29, -1)
+(40, 57) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 69
+info: start round 70
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 24) DR
+warning: unit requested for identifier -1
+(43, 22) RU
+warning: unit requested for identifier -1
+(5, 53) Up
+(56, 45) LD
+warning: unit requested for identifier -1
+(10, 15) UL
+warning: unit requested for identifier -1
+warning: cell requested for position (29, -1)
+(11, 20) Up
+info:     end player 3
+info: end round 70
+info: start round 71
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(43, 21) Up
+(56, 46) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (29, -1)
+info:     end player 3
+info: end round 71
+info: start round 72
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(26, 13) RU
+warning: unit requested for identifier -1
+(43, 21) DR
+warning: unit requested for identifier -1
+(10, 15) UL
+warning: unit requested for identifier -1
+warning: cell requested for position (29, -1)
+info:     end player 3
+info: end round 72
+info: start round 73
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(29, 32) RU
+warning: unit requested for identifier -1
+(26, 12) RU
+warning: unit requested for identifier -1
+(42, 15) Up
+(42, 50) Up
+(40, 57) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 73
+info: start round 74
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(29, 31) RU
+warning: unit requested for identifier -1
+(36, 43) LD
+warning: unit requested for identifier -1
+(54, 7) Up
+(10, 15) UL
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 74
+info: start round 75
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(47, 43) Up
+(42, 21) DR
+warning: unit requested for identifier -1
+(2, 13) Up
+(27, 0) RU
+warning: unit requested for identifier -1
+(42, 15) Up
+(9, 22) Up
+(39, 57) Up
+info:     end player 3
+info: end round 75
+info: start round 76
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(29, 30) Up
+(26, 12) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (16, -1)
+(21, 12) LD
+warning: unit requested for identifier -1
+(28, 0) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 76
+info: start round 77
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(42, 21) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (16, -1)
+(21, 13) LD
+warning: unit requested for identifier -1
+(45, 45) DR
+warning: unit requested for identifier -1
+(31, 29) Up
+(29, 0) RU
+warning: unit requested for identifier -1
+(41, 14) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 77
+info: start round 78
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(46, 43) DR
+warning: unit requested for identifier -1
+(41, 21) DR
+warning: unit requested for identifier -1
+(6, 42) Up
+(21, 14) LD
+warning: unit requested for identifier -1
+(44, 45) DR
+warning: unit requested for identifier -1
+(30, 0) RU
+warning: unit requested for identifier -1
+(41, 13) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 78
+info: start round 79
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(22, 11) Up
+(40, 21) DR
+warning: unit requested for identifier -1
+(39, 12) DR
+warning: unit requested for identifier -1
+(21, 15) LD
+warning: unit requested for identifier -1
+(2, 13) Up
+(31, 0) RU
+warning: unit requested for identifier -1
+(41, 12) RU
+warning: unit requested for identifier -1
+(9, 44) Up
+(58, 12) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 79
+info: start round 80
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(22, 11) LD
+warning: unit requested for identifier -1
+(50, 7) Up
+(38, 12) UL
+warning: unit requested for identifier -1
+(2, 13) DR
+warning: unit requested for identifier -1
+(32, 0) RU
+warning: unit requested for identifier -1
+(58, 13) LD
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 33) with waste.
+info: end round 80
+info: start round 81
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(22, 17) Up
+(12, 39) LD
+warning: unit requested for identifier -1
+(2, 12) DR
+warning: unit requested for identifier -1
+(20, 15) Up
+(33, 0) RU
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 33) with waste.
+info: end round 81
+info: start round 82
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(22, 13) Up
+(45, 43) DR
+warning: unit requested for identifier -1
+(20, 15) Up
+(34, 0) RU
+warning: unit requested for identifier -1
+(22, 38) Up
+info:     end player 3
+info: end round 82
+info: start round 83
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(44, 43) DR
+warning: unit requested for identifier -1
+(21, 14) DR
+warning: unit requested for identifier -1
+(43, 44) Up
+(13, 40) Up
+(35, 0) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 83
+info: start round 84
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(22, 13) Up
+(43, 43) DR
+warning: unit requested for identifier -1
+(31, 29) RU
+warning: unit requested for identifier -1
+(36, 0) RU
+warning: unit requested for identifier -1
+(26, 38) Up
+info:     end player 3
+warning: cannot move to position (6, 31) with waste.
+info: end round 84
+info: start round 85
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(42, 43) UL
+warning: unit requested for identifier -1
+(6, 47) DR
+warning: unit requested for identifier -1
+(9, 26) Up
+(13, 40) Up
+(21, 14) DR
+warning: unit requested for identifier -1
+(37, 0) RU
+warning: unit requested for identifier -1
+(26, 38) Up
+info:     end player 3
+warning: cannot move to position (8, 31) with waste.
+info: end round 85
+info: start round 86
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(22, 13) Up
+(43, 43) Up
+(5, 47) DR
+warning: unit requested for identifier -1
+(7, 42) DR
+warning: unit requested for identifier -1
+(24, 0) Up
+(42, 44) UL
+warning: unit requested for identifier -1
+(13, 40) UL
+warning: unit requested for identifier -1
+(38, 0) RU
+warning: unit requested for identifier -1
+(26, 37) UL
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 86
+info: start round 87
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(43, 43) UL
+warning: unit requested for identifier -1
+(39, 20) Up
+(34, 6) UL
+warning: unit requested for identifier -1
+(4, 47) DR
+warning: unit requested for identifier -1
+(9, 25) DR
+warning: unit requested for identifier -1
+(33, 7) Up
+(13, 41) UL
+warning: unit requested for identifier -1
+(39, 0) RU
+warning: unit requested for identifier -1
+(27, 37) UL
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 30) with waste.
+info: end round 87
+info: start round 88
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(35, 6) Up
+(40, 0) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 88
+info: start round 89
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(39, 20) Up
+(24, 1) LD
+warning: unit requested for identifier -1
+(41, 0) RU
+warning: unit requested for identifier -1
+(54, 50) RU
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (6, 29) with waste.
+info: end round 89
+info: start round 90
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(39, 20) LD
+warning: unit requested for identifier -1
+(29, 31) Up
+(55, 37) Up
+(13, 43) Up
+(42, 0) RU
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (6, 29) with waste.
+info: end round 90
+info: start round 91
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(50, 11) DR
+(0, 20) Up
+(23, 14) UL
+warning: unit requested for identifier -1
+(4, 46) DR
+warning: unit requested for identifier -1
+(25, 2) Up
+(13, 43) RU
+warning: unit requested for identifier -1
+(43, 0) Up
+(49, 11) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 29) with waste.
+info: end round 91
+info: start round 92
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(24, 14) UL
+warning: unit requested for identifier -1
+(36, 41) DR
+warning: unit requested for identifier -1
+(13, 42) RU
+warning: unit requested for identifier -1
+(49, 11) Up
+info:     end player 3
+info: end round 92
+info: start round 93
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(25, 14) UL
+warning: unit requested for identifier -1
+(13, 41) RU
+warning: unit requested for identifier -1
+(49, 11) Up
+info:     end player 3
+info: end round 93
+info: start round 94
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(26, 14) UL
+warning: unit requested for identifier -1
+(4, 45) Up
+(13, 40) RU
+warning: unit requested for identifier -1
+(49, 11) DR
+(41, 49) RU
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 36) with waste.
+info: end round 94
+info: start round 95
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(27, 14) UL
+warning: unit requested for identifier -1
+(4, 45) LD
+warning: unit requested for identifier -1
+(13, 39) RU
+warning: unit requested for identifier -1
+(11, 20) Up
+(49, 11) DR
+(41, 48) RU
+warning: unit requested for identifier -1
+(12, 17) LD
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 32) with waste.
+info: end round 95
+info: start round 96
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(28, 14) UL
+warning: unit requested for identifier -1
+(47, 24) Up
+(35, 41) Up
+(11, 19) Up
+(24, 23) Up
+(10, 20) DR
+warning: unit requested for identifier -1
+(13, 38) RU
+(49, 11) DR
+(47, 27) Up
+info:     end player 3
+warning: cannot move to position (8, 32) with waste.
+warning: cannot move to position (9, 36) with waste.
+info: end round 96
+info: start round 97
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(29, 14) UL
+warning: unit requested for identifier -1
+(27, 44) Up
+(13, 38) RU
+(5, 11) Up
+info:     end player 3
+warning: cannot move to position (6, 32) with waste.
+warning: cannot move to position (9, 34) with waste.
+info: end round 97
+info: start round 98
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(30, 14) UL
+warning: unit requested for identifier -1
+(36, 41) RU
+warning: unit requested for identifier -1
+(4, 46) DR
+warning: unit requested for identifier -1
+(48, 11) Up
+(34, 25) Up
+(34, 59) Up
+(13, 38) RU
+(47, 26) LD
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 32) with waste.
+warning: cannot move to position (9, 34) with waste.
+info: end round 98
+info: start round 99
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(31, 14) UL
+warning: unit requested for identifier -1
+(3, 46) DR
+warning: unit requested for identifier -1
+(12, 18) Up
+(14, 38) RU
+warning: unit requested for identifier -1
+(48, 11) DR
+warning: unit requested for identifier -1
+(47, 27) LD
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 32) with waste.
+info: end round 99
+info: start round 100
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(32, 14) UL
+warning: unit requested for identifier -1
+(35, 40) Up
+(12, 18) Up
+(13, 38) RU
+warning: unit requested for identifier -1
+(42, 46) UL
+warning: unit requested for identifier -1
+(32, 26) LD
+warning: unit requested for identifier -1
+(58, 52) Up
+(46, 27) Up
+info:     end player 3
+warning: cannot move to position (10, 36) with waste.
+info: end round 100
+info: start round 101
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(33, 14) UL
+warning: unit requested for identifier -1
+(12, 18) Up
+(48, 11) DR
+warning: unit requested for identifier -1
+(58, 51) Up
+(13, 38) RU
+(50, 11) RU
+warning: unit requested for identifier -1
+(46, 27) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (10, 36) with waste.
+info: end round 101
+info: start round 102
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 8) Up
+warning: cell requested for position (-1, 8)
+(34, 14) UL
+warning: unit requested for identifier -1
+(34, 41) DR
+warning: unit requested for identifier -1
+(33, 23) Up
+(43, 45) Up
+(57, 52) UL
+(47, 12) Up
+(45, 27) Up
+info:     end player 3
+warning: cannot move to position (6, 32) with waste.
+warning: cannot move to position (10, 36) with waste.
+info: end round 102
+info: start round 103
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(35, 14) UL
+warning: unit requested for identifier -1
+(28, 38) DR
+warning: unit requested for identifier -1
+(14, 38) RU
+warning: unit requested for identifier -1
+(48, 11) DR
+warning: unit requested for identifier -1
+(58, 52) UL
+warning: unit requested for identifier -1
+(11, 18) Up
+(41, 58) Up
+(46, 27) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 32) with waste.
+info: end round 103
+info: start round 104
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(36, 14) UL
+warning: unit requested for identifier -1
+(2, 50) LD
+warning: unit requested for identifier -1
+(27, 38) LD
+warning: unit requested for identifier -1
+(59, 52) RU
+warning: unit requested for identifier -1
+(43, 45) Up
+(57, 52) DR
+warning: unit requested for identifier -1
+(48, 12) Up
+(45, 27) Up
+info:     end player 3
+warning: cannot move to position (6, 32) with waste.
+info: end round 104
+info: start round 105
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 8) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 8)
+(37, 14) UL
+warning: unit requested for identifier -1
+(2, 51) LD
+warning: unit requested for identifier -1
+(33, 40) LD
+warning: unit requested for identifier -1
+(48, 11) DR
+warning: unit requested for identifier -1
+(59, 51) Up
+(33, 9) Up
+(56, 52) LD
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (6, 32) with waste.
+info: end round 105
+info: start round 106
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 8) Up
+warning: cell requested for position (-1, 8)
+(38, 14) UL
+warning: unit requested for identifier -1
+(2, 52) LD
+warning: unit requested for identifier -1
+(33, 41) LD
+warning: unit requested for identifier -1
+(27, 38) LD
+warning: unit requested for identifier -1
+(58, 51) Up
+(33, 9) DR
+warning: unit requested for identifier -1
+(12, 19) Up
+(56, 53) Up
+(48, 12) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 32) with waste.
+warning: cannot move to position (11, 34) with waste.
+info: end round 106
+info: start round 107
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 8) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 8)
+(39, 14) UL
+warning: unit requested for identifier -1
+(33, 42) LD
+warning: unit requested for identifier -1
+(48, 11) Up
+(58, 51) RU
+warning: unit requested for identifier -1
+(29, 27) UL
+warning: unit requested for identifier -1
+(56, 53) LD
+warning: unit requested for identifier -1
+(47, 12) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 107
+info: start round 108
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 7) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 8)
+(40, 14) UL
+warning: unit requested for identifier -1
+(32, 42) Up
+(26, 38) DR
+warning: unit requested for identifier -1
+(48, 12) RU
+warning: unit requested for identifier -1
+(58, 50) RU
+warning: unit requested for identifier -1
+(5, 15) Up
+(46, 12) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (6, 33) with waste.
+info: end round 108
+info: start round 109
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 8)
+(41, 14) UL
+warning: unit requested for identifier -1
+(2, 53) LD
+warning: unit requested for identifier -1
+(39, 40) Up
+(48, 11) Up
+(58, 49) UL
+warning: unit requested for identifier -1
+(11, 18) Up
+(51, 4) DR
+warning: unit requested for identifier -1
+(17, 3) RU
+warning: unit requested for identifier -1
+(56, 54) RU
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (6, 33) with waste.
+info: end round 109
+info: start round 110
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 7) DR
+warning: unit requested for identifier -1
+(42, 14) UL
+warning: unit requested for identifier -1
+(2, 54) LD
+warning: unit requested for identifier -1
+(30, 25) LD
+warning: unit requested for identifier -1
+(50, 4) DR
+warning: unit requested for identifier -1
+(46, 12) Up
+info:     end player 3
+info: end round 110
+info: start round 111
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(43, 14) UL
+warning: unit requested for identifier -1
+(27, 36) Up
+(2, 55) LD
+warning: unit requested for identifier -1
+(46, 23) DR
+warning: unit requested for identifier -1
+(38, 40) LD
+warning: unit requested for identifier -1
+(49, 11) RU
+warning: unit requested for identifier -1
+(59, 49) RU
+warning: unit requested for identifier -1
+(30, 26) LD
+warning: unit requested for identifier -1
+(49, 4) DR
+warning: unit requested for identifier -1
+(36, 6) RU
+warning: unit requested for identifier -1
+(34, 0) Up
+(17, 3) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 111
+info: start round 112
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(44, 14) UL
+warning: unit requested for identifier -1
+(50, 45) UL
+warning: unit requested for identifier -1
+(27, 37) RU
+warning: unit requested for identifier -1
+(45, 23) DR
+warning: unit requested for identifier -1
+(59, 48) RU
+warning: unit requested for identifier -1
+(35, 44) Up
+(48, 4) DR
+warning: unit requested for identifier -1
+(17, 2) Up
+(46, 12) Up
+info:     end player 3
+info: end round 112
+info: start round 113
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(45, 14) UL
+warning: unit requested for identifier -1
+(41, 16) Up
+(29, 28) LD
+warning: unit requested for identifier -1
+(59, 47) UL
+warning: unit requested for identifier -1
+(30, 7) UL
+(47, 4) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 34) with waste.
+info: end round 113
+info: start round 114
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(46, 14) UL
+warning: unit requested for identifier -1
+(27, 36) Up
+(30, 7) UL
+warning: unit requested for identifier -1
+(33, 0) Up
+(17, 2) RU
+warning: unit requested for identifier -1
+(46, 12) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 114
+info: start round 115
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(47, 14) UL
+warning: unit requested for identifier -1
+(41, 15) Up
+(43, 17) Up
+(19, 50) DR
+warning: unit requested for identifier -1
+(59, 48) UL
+warning: unit requested for identifier -1
+(30, 7) UL
+warning: unit requested for identifier -1
+(46, 11) Up
+info:     end player 3
+warning: cannot move to position (11, 36) with waste.
+info: end round 115
+info: start round 116
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 12)
+(48, 14) UL
+warning: unit requested for identifier -1
+(31, 9) UL
+warning: unit requested for identifier -1
+(28, 37) RU
+warning: unit requested for identifier -1
+(29, 28) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 12)
+(37, 40) RU
+warning: unit requested for identifier -1
+(35, 43) UL
+warning: unit requested for identifier -1
+(33, 0) Up
+(16, 2) DR
+warning: unit requested for identifier -1
+(46, 12) Up
+info:     end player 3
+warning: cannot move to position (8, 34) with waste.
+warning: cannot move to position (12, 37) with waste.
+info: end round 116
+info: start round 117
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 12)
+(49, 14) UL
+warning: unit requested for identifier -1
+(41, 15) Up
+(42, 16) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 12)
+(34, 9) Up
+(29, 7) LD
+warning: unit requested for identifier -1
+(36, 43) UL
+warning: unit requested for identifier -1
+(39, 54) Up
+(58, 52) Up
+(46, 12) Up
+info:     end player 3
+warning: cannot move to position (12, 37) with waste.
+info: end round 117
+info: start round 118
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 12)
+warning: cell requested for position (-1, 12)
+(37, 43) UL
+warning: unit requested for identifier -1
+(39, 54) DR
+warning: unit requested for identifier -1
+(35, 49) Up
+info:     end player 3
+warning: cannot move to position (12, 37) with waste.
+warning: cannot move to position (14, 45) with waste.
+info: end round 118
+info: start round 119
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 12)
+(50, 14) UL
+warning: unit requested for identifier -1
+(41, 15) Up
+(42, 20) UL
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 12)
+(33, 9) DR
+warning: unit requested for identifier -1
+(36, 39) Up
+(35, 50) Up
+(38, 54) DR
+warning: unit requested for identifier -1
+(43, 17) Up
+info:     end player 3
+warning: cannot move to position (11, 39) with waste.
+info: end round 119
+info: start round 120
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 12)
+(51, 14) UL
+warning: unit requested for identifier -1
+(45, 45) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 12)
+(36, 39) DR
+warning: unit requested for identifier -1
+(35, 50) Up
+(37, 54) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 33) with waste.
+warning: cannot move to position (13, 37) with waste.
+info: end round 120
+info: start round 121
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 12)
+(51, 15) Up
+(45, 44) Up
+(29, 28) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 12)
+(34, 8) Up
+(18, 49) DR
+warning: unit requested for identifier -1
+(35, 50) Up
+(36, 54) DR
+warning: unit requested for identifier -1
+(32, 5) RU
+warning: unit requested for identifier -1
+(11, 22) LD
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (13, 37) with waste.
+info: end round 121
+info: start round 122
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 12)
+warning: cell requested for position (-1, 12)
+(17, 49) DR
+warning: unit requested for identifier -1
+(35, 50) Up
+(11, 23) LD
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (13, 37) with waste.
+info: end round 122
+info: start round 123
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 12)
+warning: cell requested for position (-1, 12)
+(33, 9) DR
+warning: unit requested for identifier -1
+(16, 49) DR
+warning: unit requested for identifier -1
+(47, 46) Up
+(47, 3) DR
+warning: unit requested for identifier -1
+(36, 49) UL
+warning: unit requested for identifier -1
+(11, 24) LD
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 123
+info: start round 124
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(56, 2) RU
+warning: unit requested for identifier -1
+(15, 49) DR
+warning: unit requested for identifier -1
+(48, 12) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (8, 34) with waste.
+warning: cannot move to position (13, 34) with waste.
+info: end round 124
+info: start round 125
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(57, 2) RU
+warning: unit requested for identifier -1
+(57, 38) LD
+warning: unit requested for identifier -1
+(22, 16) Up
+info:     end player 3
+warning: cannot move to position (8, 36) with waste.
+info: end round 125
+info: start round 126
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(5, 44) Up
+(6, 41) RU
+warning: unit requested for identifier -1
+(33, 8) RU
+warning: unit requested for identifier -1
+(14, 49) DR
+warning: unit requested for identifier -1
+(31, 12) Up
+(31, 1) Up
+(46, 26) DR
+warning: unit requested for identifier -1
+(47, 12) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 126
+info: start round 127
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(14, 46) UL
+warning: unit requested for identifier -1
+(13, 49) DR
+warning: unit requested for identifier -1
+(45, 26) Up
+(47, 12) DR
+(23, 17) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 127
+info: start round 128
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(15, 46) Up
+(30, 28) DR
+warning: unit requested for identifier -1
+(3, 42) Up
+(12, 49) DR
+warning: unit requested for identifier -1
+(47, 46) UL
+warning: unit requested for identifier -1
+(32, 1) RU
+warning: unit requested for identifier -1
+(46, 3) DR
+warning: unit requested for identifier -1
+(46, 26) RU
+warning: unit requested for identifier -1
+(47, 12) DR
+info:     end player 3
+warning: cannot move to position (44, -1) out of the board.
+info: end round 128
+info: start round 129
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(29, 28) DR
+warning: unit requested for identifier -1
+(12, 48) DR
+warning: unit requested for identifier -1
+(45, 3) DR
+warning: unit requested for identifier -1
+(46, 25) DR
+warning: unit requested for identifier -1
+(24, 18) Up
+(23, 17) RU
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (44, 1) with waste.
+info: end round 129
+info: start round 130
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(28, 28) DR
+warning: unit requested for identifier -1
+(42, 41) Up
+(0, 6) Up
+(16, 14) LD
+warning: unit requested for identifier -1
+(31, 8) Up
+(12, 47) DR
+warning: unit requested for identifier -1
+(35, 44) Up
+(17, 35) Up
+(27, 29) Up
+(48, 46) RU
+warning: unit requested for identifier -1
+(31, 0) Up
+(26, 21) RU
+warning: unit requested for identifier -1
+(44, 3) DR
+warning: unit requested for identifier -1
+(45, 25) DR
+warning: unit requested for identifier -1
+(24, 18) RU
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 130
+info: start round 131
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(1, 5) DR
+warning: unit requested for identifier -1
+(15, 46) RU
+warning: unit requested for identifier -1
+(30, 1) DR
+warning: unit requested for identifier -1
+(0, 6) Up
+(16, 15) LD
+warning: unit requested for identifier -1
+(12, 46) Up
+(27, 29) LD
+warning: unit requested for identifier -1
+(26, 20) Up
+(43, 3) DR
+warning: unit requested for identifier -1
+(35, 45) Up
+(44, 25) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (4, 15) with waste.
+info: end round 131
+info: start round 132
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(16, 46) Up
+(42, 41) Up
+warning: cell requested for position (-1, 36)
+(45, 24) DR
+warning: unit requested for identifier -1
+(16, 16) LD
+warning: unit requested for identifier -1
+(13, 46) DR
+warning: unit requested for identifier -1
+(43, 2) DR
+warning: unit requested for identifier -1
+(35, 45) LD
+(43, 25) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (3, 16) with waste.
+info: end round 132
+info: start round 133
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 33) Up
+warning: cell requested for position (-1, 36)
+(44, 24) DR
+warning: unit requested for identifier -1
+(31, 9) LD
+warning: unit requested for identifier -1
+(12, 46) Up
+(26, 19) Up
+(35, 45) LD
+(42, 25) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (54, 19) with waste.
+info: end round 133
+info: start round 134
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(27, 30) Up
+(42, 41) Up
+warning: cell requested for position (-1, 36)
+(43, 24) DR
+warning: unit requested for identifier -1
+(17, 36) Up
+(35, 45) LD
+(41, 25) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (52, 19) with waste.
+info: end round 134
+info: start round 135
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 36)
+(30, 9) DR
+warning: unit requested for identifier -1
+(25, 20) RU
+warning: unit requested for identifier -1
+(16, 33) DR
+warning: unit requested for identifier -1
+(35, 45) LD
+(40, 25) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (1, 32) with waste.
+info: end round 135
+info: start round 136
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(8, 44) Up
+warning: cell requested for position (37, -1)
+warning: cell requested for position (-1, 36)
+(17, 36) Up
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+(38, 26) Up
+(35, 46) Up
+warning: cell requested for position (37, -1)
+(39, 25) DR
+warning: unit requested for identifier -1
+(33, 44) Up
+info:     end player 3
+info: end round 136
+info: start round 137
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(8, 44) Up
+warning: cell requested for position (37, -1)
+warning: cell requested for position (-1, 36)
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+(35, 45) LD
+(38, 25) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (6, 21) with waste.
+info: end round 137
+info: start round 138
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(35, 47) Up
+(27, 30) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (37, -1)
+warning: cell requested for position (-1, 36)
+(40, 24) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+(37, 25) Up
+(29, 7) Up
+info:     end player 3
+warning: cannot move to position (6, 21) with waste.
+warning: cannot move to position (6, 36) with waste.
+warning: cannot move to position (-1, 1) out of the board.
+info: end round 138
+info: start round 139
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(26, 30) DR
+warning: unit requested for identifier -1
+(41, 24) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (37, -1)
+warning: cell requested for position (-1, 36)
+(40, 23) Up
+(11, 17) UL
+warning: unit requested for identifier -1
+(29, 8) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+(38, 25) Up
+(23, 17) Up
+(38, 43) RU
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (6, 21) with waste.
+warning: cannot move to position (1, 31) with waste.
+warning: cannot move to position (6, 36) with waste.
+info: end round 139
+info: start round 140
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(41, 23) Up
+warning: cell requested for position (37, -1)
+warning: cell requested for position (-1, 36)
+(40, 24) DR
+warning: unit requested for identifier -1
+(28, 8) Up
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+(39, 25) Up
+(23, 17) Up
+(38, 42) RU
+(23, 16) Up
+info:     end player 3
+warning: cannot move to position (4, 14) with waste.
+info: end round 140
+info: start round 141
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(41, 24) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (37, -1)
+warning: cell requested for position (-1, 36)
+(40, 27) Up
+(39, 24) DR
+warning: unit requested for identifier -1
+(28, 8) Up
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+warning: cell requested for position (37, -1)
+warning: cell requested for position (-1, 36)
+(23, 17) DR
+warning: unit requested for identifier -1
+(38, 42) RU
+(30, 6) Up
+(23, 16) Up
+info:     end player 3
+warning: cannot move to position (3, 32) with waste.
+warning: cannot move to position (-1, 1) out of the board.
+info: end round 141
+info: start round 142
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 44) RU
+warning: unit requested for identifier -1
+(40, 26) Up
+(38, 24) Up
+(31, 6) Up
+(22, 17) DR
+warning: unit requested for identifier -1
+(38, 42) RU
+(23, 17) DR
+info:     end player 3
+warning: cannot move to position (52, 44) with waste.
+warning: cannot move to position (6, 13) with waste.
+warning: cannot move to position (-1, 1) out of the board.
+info: end round 142
+info: start round 143
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 43) RU
+warning: unit requested for identifier -1
+(40, 23) Up
+(31, 5) Up
+(38, 25) Up
+(38, 42) RU
+(30, 6) DR
+info:     end player 3
+warning: cannot move to position (3, 21) with waste.
+info: end round 143
+info: start round 144
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(39, 26) LD
+warning: unit requested for identifier -1
+(20, 51) Up
+(29, 52) Up
+(2, 30) Up
+(31, 5) Up
+(22, 17) DR
+warning: unit requested for identifier -1
+(38, 42) RU
+(30, 6) DR
+info:     end player 3
+info: end round 144
+info: start round 145
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(39, 24) DR
+warning: unit requested for identifier -1
+(31, 5) Up
+(38, 25) Up
+(38, 42) RU
+(30, 6) DR
+(24, 17) RU
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (4, 13) with waste.
+info: end round 145
+info: start round 146
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 42) Up
+warning: cell requested for position (41, 60)
+(35, 24) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (41, 60)
+(31, 5) Up
+(21, 17) DR
+warning: unit requested for identifier -1
+(30, 6) DR
+(24, 16) DR
+warning: unit requested for identifier -1
+info:     end player 3
+info: end round 146
+info: start round 147
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 42) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (41, 60)
+(36, 45) LD
+warning: unit requested for identifier -1
+(29, 53) Up
+(39, 44) Up
+warning: cell requested for position (41, 60)
+(31, 5) Up
+(35, 44) Up
+(30, 6) DR
+info:     end player 3
+warning: cannot move to position (3, 20) with waste.
+info: end round 147
+info: start round 148
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(35, 46) LD
+(10, 41) RU
+warning: unit requested for identifier -1
+(37, 24) Up
+warning: cell requested for position (41, 60)
+(18, 49) Up
+warning: cell requested for position (41, 60)
+(29, 6) Up
+(35, 44) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (6, 15) with waste.
+warning: cannot move to position (14, 44) with waste.
+info: end round 148
+info: start round 149
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 40) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (41, 60)
+(36, 26) Up
+(29, 53) DR
+warning: unit requested for identifier -1
+(18, 49) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (41, 60)
+warning: cell requested for position (41, 60)
+(37, 25) UL
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (14, 44) with waste.
+warning: cannot move to position (15, 39) with waste.
+warning: cannot move to position (55, 23) with waste.
+info: end round 149
+info: start round 150
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (41, 60)
+warning: cell requested for position (41, 60)
+(30, 6) DR
+warning: cell requested for position (41, 60)
+(38, 25) Up
+info:     end player 3
+warning: cannot move to position (15, 45) with waste.
+warning: cannot move to position (14, 40) with waste.
+warning: cannot move to position (55, 23) with waste.
+info: end round 150
+info: start round 151
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (41, 60)
+warning: cell requested for position (-1, 55)
+(35, 26) LD
+warning: unit requested for identifier -1
+(2, 33) Up
+(20, 48) Up
+(18, 48) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (41, 60)
+(30, 6) DR
+warning: cell requested for position (41, 60)
+info:     end player 3
+warning: cannot move to position (4, 1) with waste.
+warning: cannot move to position (15, 39) with waste.
+info: end round 151
+info: start round 152
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(59, 11) Up
+(18, 47) RU
+warning: unit requested for identifier -1
+(30, 6) DR
+(11, 12) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (4, 1) with waste.
+warning: cannot move to position (16, 40) with waste.
+info: end round 152
+info: start round 153
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(18, 46) RU
+warning: unit requested for identifier -1
+(30, 6) DR
+info:     end player 3
+warning: cannot move to position (4, 1) with waste.
+warning: cannot move to position (15, 39) with waste.
+info: end round 153
+info: start round 154
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 39) Up
+info:     end player 3
+warning: cannot move to position (60, 17) out of the board.
+warning: cannot move to position (16, 40) with waste.
+info: end round 154
+info: start round 155
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(33, 6) RU
+warning: unit requested for identifier -1
+(32, 55) Up
+(2, 31) Up
+info:     end player 3
+warning: cannot move to position (60, 17) out of the board.
+warning: cannot move to position (3, 10) with waste.
+info: end round 155
+info: start round 156
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(31, 9) Up
+(29, 7) Up
+(30, 6) DR
+warning: unit requested for identifier -1
+(56, 43) Up
+info:     end player 3
+warning: cannot move to position (60, 17) out of the board.
+warning: cannot move to position (3, 10) with waste.
+info: end round 156
+info: start round 157
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 41) Up
+(32, 4) Up
+(33, 40) LD
+info:     end player 3
+warning: cannot move to position (6, 23) with waste.
+warning: cannot move to position (14, 42) with waste.
+info: end round 157
+info: start round 158
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 42) Up
+warning: cell requested for position (2, 60)
+(33, 41) LD
+(37, 25) Up
+info:     end player 3
+info: end round 158
+info: start round 159
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 42) Up
+warning: cell requested for position (2, 60)
+(33, 41) LD
+info:     end player 3
+warning: cannot move to position (4, 24) with waste.
+warning: cannot move to position (14, 41) with waste.
+warning: cannot move to position (3, 10) with waste.
+info: end round 159
+info: start round 160
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 42) Up
+warning: cell requested for position (2, 60)
+(33, 41) Up
+(38, 25) Up
+info:     end player 3
+warning: cannot move to position (6, 29) with waste.
+warning: cannot move to position (14, 41) with waste.
+warning: cannot move to position (3, 10) with waste.
+warning: cannot move to position (14, -1) out of the board.
+info: end round 160
+info: start round 161
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 42) Up
+warning: cell requested for position (2, 60)
+(35, 26) LD
+warning: unit requested for identifier -1
+(33, 41) LD
+warning: cell requested for position (2, 60)
+(10, 40) RU
+warning: unit requested for identifier -1
+(55, 43) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (4, 25) with waste.
+warning: cannot move to position (14, 41) with waste.
+warning: cannot move to position (9, 1) with waste.
+info: end round 161
+info: start round 162
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(34, 42) Up
+warning: cell requested for position (2, 60)
+(33, 41) LD
+warning: cell requested for position (2, 60)
+info:     end player 3
+warning: cannot move to position (14, 44) with waste.
+warning: cannot move to position (52, 21) with waste.
+warning: cannot move to position (2, 10) with waste.
+warning: cannot move to position (13, 1) with waste.
+info: end round 162
+info: start round 163
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (2, 60)
+(55, 41) Up
+(33, 42) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (2, 60)
+(35, 19) Up
+(33, 40) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (52, 21) with waste.
+warning: cannot move to position (2, 10) with waste.
+info: end round 163
+info: start round 164
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (2, 60)
+warning: cell requested for position (2, 60)
+(33, 41) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (2, 60)
+(54, 43) DR
+warning: unit requested for identifier -1
+(32, 40) Up
+info:     end player 3
+warning: cannot move to position (11, 46) with waste.
+warning: cannot move to position (14, 43) with waste.
+warning: cannot move to position (3, 28) with waste.
+warning: cannot move to position (14, 45) with waste.
+info: end round 164
+info: start round 165
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (2, 60)
+warning: cell requested for position (2, 60)
+warning: cell requested for position (2, 60)
+(53, 43) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (11, 46) with waste.
+warning: cannot move to position (14, 43) with waste.
+warning: cannot move to position (54, 20) with waste.
+warning: cannot move to position (7, 1) with waste.
+warning: cannot move to position (1, 28) with waste.
+info: end round 165
+info: start round 166
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (2, 60)
+(54, 41) Up
+warning: cell requested for position (2, 60)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+(51, 5) Up
+warning: cell requested for position (2, 60)
+(9, 42) DR
+warning: unit requested for identifier -1
+(53, 42) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (11, 46) with waste.
+warning: cannot move to position (1, 28) with waste.
+warning: cannot move to position (14, 45) with waste.
+info: end round 166
+info: start round 167
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(22, 25) Up
+(10, 41) Up
+warning: cell requested for position (60, 6)
+warning: cell requested for position (2, 60)
+(54, 41) RU
+warning: cell requested for position (2, 60)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (2, 60)
+info:     end player 3
+warning: cannot move to position (3, 29) with waste.
+info: end round 167
+info: start round 168
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 6)
+warning: cell requested for position (2, 60)
+warning: cell requested for position (2, 60)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (2, 60)
+info:     end player 3
+warning: cannot move to position (11, 46) with waste.
+warning: cannot move to position (52, 26) with waste.
+warning: cannot move to position (54, 20) with waste.
+warning: cannot move to position (1, 29) with waste.
+warning: cannot move to position (3, 28) with waste.
+warning: cannot move to position (18, -1) out of the board.
+info: end round 168
+info: start round 169
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 42) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+(53, 40) Up
+info:     end player 3
+warning: cannot move to position (14, 45) with waste.
+warning: cannot move to position (22, 45) with waste.
+warning: cannot move to position (52, 20) with waste.
+warning: cannot move to position (1, 29) with waste.
+warning: cannot move to position (3, 28) with waste.
+warning: cannot move to position (16, 45) with waste.
+warning: cannot move to position (18, 1) with waste.
+info: end round 169
+info: start round 170
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(10, 41) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+info:     end player 3
+warning: cannot move to position (11, 47) with waste.
+warning: cannot move to position (22, 45) with waste.
+warning: cannot move to position (54, 8) with waste.
+warning: cannot move to position (11, 54) with waste.
+warning: cannot move to position (9, 1) with waste.
+warning: cannot move to position (3, 28) with waste.
+info: end round 170
+info: start round 171
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+(32, 21) Up
+warning: cell requested for position (60, 6)
+(30, 19) Up
+warning: cell requested for position (60, 6)
+(36, 50) Up
+(30, 23) Up
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+info:     end player 3
+warning: cannot move to position (13, 54) with waste.
+warning: cannot move to position (52, 19) with waste.
+warning: cannot move to position (9, 1) with waste.
+warning: cannot move to position (22, 54) with waste.
+warning: cannot move to position (17, 1) with waste.
+info: end round 171
+info: start round 172
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(51, 4) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+(30, 19) Up
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+info:     end player 3
+warning: cannot move to position (11, 43) with waste.
+warning: cannot move to position (53, 10) with waste.
+warning: cannot move to position (13, 54) with waste.
+warning: cannot move to position (9, 1) with waste.
+info: end round 172
+info: start round 173
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 52) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+(29, 20) DR
+warning: unit requested for identifier -1
+(29, 22) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+info:     end player 3
+warning: cannot move to position (53, 10) with waste.
+warning: cannot move to position (1, 30) with waste.
+warning: cannot move to position (9, 1) with waste.
+info: end round 173
+info: start round 174
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 53) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+warning: cell requested for position (-1, 55)
+warning: cell requested for position (60, 6)
+info:     end player 3
+warning: cannot move to position (11, 50) with waste.
+warning: cannot move to position (54, 23) with waste.
+warning: cannot move to position (21, 45) with waste.
+info: end round 174
+info: start round 175
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 54) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+(29, 20) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 6)
+warning: cell requested for position (60, 6)
+(30, 19) Up
+(28, 24) UL
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 6)
+info:     end player 3
+warning: cannot move to position (11, 50) with waste.
+warning: cannot move to position (7, 60) out of the board.
+info: end round 175
+info: start round 176
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 55) LD
+warning: unit requested for identifier -1
+(15, 25) Up
+(24, 27) UL
+warning: unit requested for identifier -1
+(35, 50) Up
+(27, 21) Up
+info:     end player 3
+warning: cannot move to position (7, 60) out of the board.
+warning: cannot move to position (60, 6) out of the board.
+warning: cannot move to position (53, 10) with waste.
+warning: cannot move to position (1, 23) with waste.
+warning: cannot move to position (52, 4) with waste.
+info: end round 176
+info: start round 177
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 56) LD
+warning: unit requested for identifier -1
+(15, 26) DR
+warning: unit requested for identifier -1
+(25, 27) UL
+warning: unit requested for identifier -1
+(29, 20) DR
+(27, 20) Up
+info:     end player 3
+warning: cannot move to position (6, 14) with waste.
+warning: cannot move to position (7, 58) with waste.
+warning: cannot move to position (60, 6) out of the board.
+warning: cannot move to position (53, 10) with waste.
+warning: cannot move to position (11, 52) with waste.
+warning: cannot move to position (1, 23) with waste.
+info: end round 177
+info: start round 178
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(28, 20) Up
+info:     end player 3
+warning: cannot move to position (4, 14) with waste.
+info: end round 178
+info: start round 179
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(37, 57) Up
+(39, 59) Up
+(15, 26) Up
+(30, 21) Up
+(29, 20) RU
+warning: unit requested for identifier -1
+(27, 20) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (4, 4) with waste.
+warning: cannot move to position (6, 19) with waste.
+warning: cannot move to position (1, 22) with waste.
+info: end round 179
+info: start round 180
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(38, 57) DR
+warning: unit requested for identifier -1
+(29, 19) Up
+(37, 58) Up
+info:     end player 3
+warning: cannot move to position (6, 13) with waste.
+warning: cannot move to position (7, 60) out of the board.
+warning: cannot move to position (14, 43) with waste.
+warning: cannot move to position (4, 4) with waste.
+warning: cannot move to position (58, 8) with waste.
+warning: cannot move to position (6, 19) with waste.
+warning: cannot move to position (3, 32) with waste.
+warning: cannot move to position (55, 6) with waste.
+info: end round 180
+info: start round 181
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(37, 57) DR
+warning: unit requested for identifier -1
+(14, 26) DR
+warning: unit requested for identifier -1
+(27, 22) DR
+warning: unit requested for identifier -1
+(27, 20) Up
+info:     end player 3
+warning: cannot move to position (4, 13) with waste.
+warning: cannot move to position (14, 43) with waste.
+warning: cannot move to position (16, 34) with waste.
+warning: cannot move to position (11, 51) with waste.
+warning: cannot move to position (1, 32) with waste.
+info: end round 181
+info: start round 182
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 28)
+(28, 19) DR
+warning: unit requested for identifier -1
+(36, 58) Up
+info:     end player 3
+warning: cannot move to position (60, 4) out of the board.
+warning: cannot move to position (4, 13) with waste.
+warning: cannot move to position (8, 60) out of the board.
+warning: cannot move to position (14, 43) with waste.
+warning: cannot move to position (11, 51) with waste.
+warning: cannot move to position (3, 32) with waste.
+warning: cannot move to position (54, 4) with waste.
+info: end round 182
+info: start round 183
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 28)
+(27, 20) Up
+info:     end player 3
+warning: cannot move to position (4, 13) with waste.
+warning: cannot move to position (8, 58) with waste.
+warning: cannot move to position (6, 19) with waste.
+warning: cannot move to position (52, 24) with waste.
+warning: cannot move to position (1, 32) with waste.
+warning: cannot move to position (8, 1) with waste.
+info: end round 183
+info: start round 184
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 52)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 17)
+(37, 57) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (58, 28) with waste.
+warning: cannot move to position (4, 13) with waste.
+warning: cannot move to position (52, 24) with waste.
+warning: cannot move to position (3, 22) with waste.
+warning: cannot move to position (-1, 3) out of the board.
+info: end round 184
+info: start round 185
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 52)
+warning: cell requested for position (60, 28)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 17)
+(30, 49) DR
+warning: unit requested for identifier -1
+(27, 20) Up
+warning: cell requested for position (60, 17)
+info:     end player 3
+warning: cannot move to position (4, 13) with waste.
+warning: cannot move to position (9, 58) with waste.
+warning: cannot move to position (1, 22) with waste.
+info: end round 185
+info: start round 186
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 52)
+(15, 30) Up
+warning: cell requested for position (60, 28)
+(28, 22) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 17)
+(29, 49) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 17)
+(37, 57) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (58, 27) with waste.
+warning: cannot move to position (6, 13) with waste.
+warning: cannot move to position (9, 58) with waste.
+warning: cannot move to position (3, 32) with waste.
+info: end round 186
+info: start round 187
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 52)
+(13, 27) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 28)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 17)
+(29, 48) Up
+(28, 20) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 17)
+(36, 57) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (3, 17) with waste.
+warning: cannot move to position (52, 24) with waste.
+warning: cannot move to position (3, 32) with waste.
+warning: cannot move to position (9, 1) with waste.
+info: end round 187
+info: start round 188
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 52)
+warning: cell requested for position (60, 28)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 17)
+(29, 47) Up
+warning: cell requested for position (60, 52)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 17)
+(35, 57) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 52)
+info:     end player 3
+warning: cannot move to position (10, 58) with waste.
+warning: cannot move to position (1, 10) with waste.
+warning: cannot move to position (1, 22) with waste.
+info: end round 188
+info: start round 189
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 28)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 17)
+warning: cell requested for position (60, 28)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 17)
+(34, 57) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 28)
+info:     end player 3
+warning: cannot move to position (10, 58) with waste.
+warning: cannot move to position (1, 10) with waste.
+warning: cannot move to position (1, 22) with waste.
+info: end round 189
+info: start round 190
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(30, 46) Up
+warning: cell requested for position (-1, 37)
+(46, 39) Up
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 28)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 28)
+warning: cell requested for position (-1, 37)
+(34, 56) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 28)
+info:     end player 3
+warning: cannot move to position (4, 12) with waste.
+warning: cannot move to position (44, 6) with waste.
+warning: cannot move to position (3, 32) with waste.
+warning: cannot move to position (19, 45) with waste.
+info: end round 190
+info: start round 191
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(30, 46) Up
+warning: cell requested for position (-1, 37)
+(46, 38) Up
+(35, 54) Up
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 28)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (60, 28)
+warning: cell requested for position (-1, 37)
+(34, 55) DR
+warning: unit requested for identifier -1
+(45, 39) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (60, 28)
+info:     end player 3
+warning: cannot move to position (6, 12) with waste.
+warning: cannot move to position (11, 58) with waste.
+warning: cannot move to position (15, 45) with waste.
+warning: cannot move to position (43, 6) with waste.
+warning: cannot move to position (3, 32) with waste.
+warning: cannot move to position (19, 45) with waste.
+info: end round 191
+info: start round 192
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(30, 46) Up
+warning: cell requested for position (-1, 37)
+(46, 38) Up
+(47, 39) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+(31, 20) Up
+(34, 54) DR
+warning: unit requested for identifier -1
+info:     end player 3
+warning: cannot move to position (11, 58) with waste.
+warning: cannot move to position (1, 32) with waste.
+info: end round 192
+info: start round 193
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(30, 47) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+(35, 54) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+(31, 47) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+(45, 39) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+info:     end player 3
+warning: cannot move to position (58, 25) with waste.
+warning: cannot move to position (5, 10) with waste.
+info: end round 193
+info: start round 194
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(30, 46) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+(47, 39) RU
+warning: unit requested for identifier -1
+(34, 54) Up
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+(35, 53) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+info:     end player 3
+warning: cannot move to position (52, 26) with waste.
+warning: cannot move to position (3, 31) with waste.
+warning: cannot move to position (-1, 6) out of the board.
+info: end round 194
+info: start round 195
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+(30, 45) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+(31, 46) Up
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+(34, 53) DR
+warning: unit requested for identifier -1
+(45, 39) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+info:     end player 3
+warning: cannot move to position (4, 10) with waste.
+warning: cannot move to position (3, 16) with waste.
+info: end round 195
+info: start round 196
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+(48, 40) Up
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+(31, 46) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+info:     end player 3
+warning: cannot move to position (60, 35) out of the board.
+warning: cannot move to position (4, 12) with waste.
+warning: cannot move to position (3, 10) with waste.
+warning: cannot move to position (60, 24) out of the board.
+warning: cannot move to position (3, 16) with waste.
+warning: cannot move to position (52, 27) with waste.
+warning: cannot move to position (10, 8) with waste.
+warning: cannot move to position (1, 26) with waste.
+info: end round 196
+info: start round 197
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+(47, 38) RU
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+(44, 39) Up
+warning: cell requested for position (22, -1)
+info:     end player 3
+warning: cannot move to position (4, 10) with waste.
+warning: cannot move to position (13, 56) with waste.
+warning: cannot move to position (48, 6) with waste.
+warning: cannot move to position (3, 33) with waste.
+warning: cannot move to position (10, 8) with waste.
+warning: cannot move to position (3, 26) with waste.
+info: end round 197
+info: start round 198
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+(29, 51) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+(35, 21) Up
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+(44, 39) DR
+warning: unit requested for identifier -1
+warning: cell requested for position (22, -1)
+info:     end player 3
+warning: cannot move to position (4, 10) with waste.
+warning: cannot move to position (11, 56) with waste.
+warning: cannot move to position (52, 26) with waste.
+warning: cannot move to position (1, 33) with waste.
+info: end round 198
+info: start round 199
+info:     start player 0
+info:     end player 0
+info:     start player 1
+info:     end player 1
+info:     start player 2
+info:     end player 2
+info:     start player 3
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (-1, 37)
+(29, 52) LD
+warning: unit requested for identifier -1
+warning: cell requested for position (-1, 37)
+warning: cell requested for position (22, -1)
+warning: cell requested for position (-1, 37)
+(35, 21) Up
+warning: cell requested for position (22, -1)
+warning: cell requested for position (22, -1)
+info:     end player 3
+warning: cannot move to position (4, 12) with waste.
+warning: cannot move to position (1, 33) with waste.
+warning: cannot move to position (3, 27) with waste.
+warning: cannot move to position (12, 5) with waste.
+info: end round 199
+info: player Dummy got score 4646
+info: player Dummy got score 5838
+info: player Dummy got score 4280
+info: player Nyaa got score 11905
+info: player(s) Nyaa got top score
+info: game played
